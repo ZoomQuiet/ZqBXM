@@ -31,6 +31,9 @@ Zq's 表形码
 
 - 1999 之后,随身带着从 Windows NT 扒出的 BXM,从 2001 到 2003 一直修订注册表来加载使用
 - 2006 迁移到 Ubuntu 通过 SCIM 平台,迁移出来
+
+    - 使用 [Win码表到SCIM码表的转换工具—mb2scim](http://floss.zoomquiet.org/data/20060723153716/index.html)
+
 - 2011 正式要进入 MAC 世界了, 也得自个儿想着迁移
 
     - 友人 [白贵兴](http://blog.khsing.net/) 曾经尝试过

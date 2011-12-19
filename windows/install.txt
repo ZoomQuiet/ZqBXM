@@ -1,0 +1,7 @@
+041129 windows 95 内嵌版 BXM 配置说明:
+- 将所有文件复制入 C:\Windows\system
+- Windows提供一个编辑注册表文件的编辑器，单击"开始"→"运行"，输入"regedit"回车后即可进入。
+    - 强行安装时：
+    - HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\Keyboard Layouts\E00****
+    - 替换一不用的输入法为表形码就好！
+

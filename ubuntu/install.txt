@@ -1,0 +1,4 @@
+- bxm2006zq.txt 使用工具生成为 bxm2006zq.bin
+- 将 bxm2006zq.bin 部署到 /usr/share/scim/tables/
+- 将 BXM.png 部署到 /usr/share/scim/icons/
+- 最后在 SCIM 配置界面中使用 表形码2006zoomq版
