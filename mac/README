@@ -12,9 +12,9 @@ FILES
 |-- fix4inputplugin.py      运行此脚本,将 bxm.inputplugin.tmp 处理,结合 bxm.inputplugin.tpl 生成 bxm.inputplugin.utf8
 |-- bxm.inputplugin.tmp     内容同 bxm.cin 为 .cin 格式的键值
 |-- bxm.inputplugin.tpl     .inputplugin 格式输出模板
-|-- bxm.inputplugin.utf8    脚本自动合并键字后的 .inputplugin 格式内容
+|-- bxm.inputplugin.utf8    脚本自动合并键字后的 .inputplugin 格式内容,用以人工检查
 `-- bxm.inputplugin         使用 vim 或是其它工具将 utf-8 转换成 utf-16 以便 MAC 内置输入法加载
-
+        推荐: iconv -f UTF-8 -t UTF-16 bxm.inputplugin.utf8 > bxm.inputplugin
 
 INSTALL
 -------------------

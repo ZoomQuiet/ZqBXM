@@ -3,9 +3,9 @@ ENCODE: SC
 PROMPT: BXM
 DELIMITER: ,
 VERSION: 1.0
-MAXINPUTCODE: 4
+MAXINPUTCODE: 1
 VALIDINPUTKEY: 0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz
-VALIDINPUTKEY: []<>0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz
+VALIDINPUTKEY: ,.?!:;"'/\()[]<>$%&@*0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz
 
 BEGINCHARACTER
 
@@ -13,6 +13,24 @@ BEGINCHARACTER
 ]	],】,」,』,︼,﹂
 <	＜,《,︿,︽
 >	＞,》,﹀,︾
+#
+,	,
+.	.
+?	?
+!	!
+:	:
+;	;
+"	"
+'	'
+/	/
+\	\
+(	(
+)	)
+$	＄
+%	％
+&	＆
+@	＠
+*	＊
 #
 0	０,零
 1	１,一,壹
@@ -29,6 +47,4 @@ BEGINCHARACTER
 1000	１000,千,仟
 10000	１0000,万,萬
 #
-%(allinput)s
-#
-ENDCHARACTER
+

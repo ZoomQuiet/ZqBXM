@@ -3,9 +3,9 @@ ENCODE: SC
 PROMPT: BXM
 DELIMITER: ,
 VERSION: 1.0
-MAXINPUTCODE: 4
+MAXINPUTCODE: 1
 VALIDINPUTKEY: 0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz
-VALIDINPUTKEY: []<>0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz
+VALIDINPUTKEY: ,.?!:;"'/\()[]<>$%&@*0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz
 
 BEGINCHARACTER
 
@@ -13,6 +13,24 @@ BEGINCHARACTER
 ]	],】,」,』,︼,﹂
 <	＜,《,︿,︽
 >	＞,》,﹀,︾
+#
+,	,
+.	.
+?	?
+!	!
+:	:
+;	;
+"	"
+'	'
+/	/
+\	\
+(	(
+)	)
+$	＄
+%	％
+&	＆
+@	＠
+*	＊
 #
 0	０,零
 1	１,一,壹
@@ -29,6 +47,7 @@ BEGINCHARACTER
 1000	１000,千,仟
 10000	１0000,万,萬
 #
+
 a	又,如,她
 aaa	姦,叒
 aaaa	敠,叕,敪,娺
@@ -2039,6 +2058,7 @@ bthm	时不再来
 bthy	暴露无遗
 btit	目不识丁
 btiz	題詞,题词
+btl	是也乎
 btlb	目不转睛
 btly	旱情
 btlz	眄
@@ -12256,8 +12276,9 @@ hhvd	无一例外
 hhvf	一律,一年,万年
 hhvg	世俗
 hhvh	一行,一例,万余
-hhvi	一條龍,一倍,一个,万全
+hhvi	一條龍,一倍,一个
 ƙ	ƙ
+hhvi	万全
 hhvj	驚人,一任,世人,万人
 hhvm	一体,一个样
 hhvn	无副作用
@@ -25961,6 +25982,7 @@ nyi	髊,艖,舳,宙
 nyib	寶貴意見
 nyih	周旋
 nyij	完善市场机制
+nyir	周琦
 nyiu	雕刻
 nyiw	宝贵意见
 nyiy	周详
@@ -43716,6 +43738,5 @@ zzxh	鈕,钮
 zzz	釨,孖,孨,乀,乁,乛,釔,钇,鑫,乙
 zzzb	孴
 zzzg	子孙
-
 #
 ENDCHARACTER
