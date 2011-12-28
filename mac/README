@@ -4,11 +4,13 @@ RE DESCRIPTION
 - http://cvs.woodpecker.org.cn/svn/woodpecker/zqlib/trunk/zqlib/4chinese/CIMTable/tables
 - is gone
 - Zoom.Quiet 111219 reStart as github repo.
-
+	- 111221 appended support for QIM
+	- BASE 如何用IMKQIM创建自己的外挂码表_Glider's home_百度空间 :: http://hi.baidu.com/gliderx/blog/item/7814a31338df82c8f5039e6e.html
 FILES
 -------------------
 .
 |-- bxm.cin                 come from biaoxin.cin
+|-- bxm.qim.txt		QIM 自制码表
 |-- fix4inputplugin.py      运行此脚本,将 bxm.inputplugin.tmp 处理,结合 bxm.inputplugin.tpl 生成 bxm.inputplugin.utf8
 |-- bxm.inputplugin.tmp     内容同 bxm.cin 为 .cin 格式的键值
 |-- bxm.inputplugin.tpl     .inputplugin 格式输出模板
