@@ -1900,6 +1900,7 @@ bijb 目的
 bijh 日后
 biji 职工教育
 bijl 目的性
+bijx 日历
 bijy 目的地
 bik 昱
 bikb 暗
@@ -2852,6 +2853,7 @@ bxky 时装
 bxl 鼎
 bxld 早餐
 bxlz 早已
+bxm 表形码
 bxmk 县直机关
 bxmw 时机
 bxmz 时速
@@ -4837,6 +4839,7 @@ digk 滚
 digl 流动性
 digo 滳
 digo 滴
+digo 浏览器
 digu 游动
 digu 滚动
 digu 流动
@@ -5220,6 +5223,7 @@ djr 沃
 djrh 浮夸
 djrl 浴血奋战
 djrw 浮夸风
+djrx 激爽
 djrz 鋈
 djs 汦
 djs 洘
@@ -5717,6 +5721,7 @@ dnsh 泻
 dnsi 沉醉
 dnsj 深感
 dnst 沉醉于
+dnsz 演进
 dnt 泞
 dntv 淀
 dntx 滑雪
@@ -7224,6 +7229,7 @@ eaxd 路过
 eavz 路径
 eaxz 路边
 eayi 路上
+eayi 路由
 eayo 路由器
 eaz 遚
 eaz 叟
@@ -9792,6 +9798,7 @@ fhxx 挽救
 fhxx 搭救
 fhxz 物力
 fhyh 扭亏增盈
+fhyi 事由
 fhyn 抚养
 fhyr 丰美
 fhys 抚养费
@@ -13094,6 +13101,7 @@ gfgx 掌握分寸
 gfgx 判断力
 gfh 半
 gfhj 顽抗到底
+gfhn 半角
 gfhr 半天
 gfii 半文盲
 gfiv 半夜
@@ -13183,6 +13191,7 @@ ggsj 示威者
 gguu 分分秒秒
 ggux 判断能力
 ggux 鉴赏能力
+ggvh 示例
 ggwd 示弱
 ggwf 三八红旗手
 ggww 断断续续
@@ -14140,6 +14149,7 @@ gmwr 颣
 gmwr 纇
 gmwv 精耕细作
 gmwv 粗綫條
+gmww 粉丝
 gmx 籵
 gmx 勦
 gmxa 糉
@@ -14167,6 +14177,7 @@ gnax 常务
 gnax 党务
 gnaz 学好
 gnbg 学期
+gnbh 常量
 gnbi 當日
 gnbi 尚且
 gnbj 紧密联系
@@ -16758,6 +16769,7 @@ hjgi 詹
 hjgk 莀
 hjgm 蘪
 hjgr 一反常态
+hjgt 菜单
 hjgx 苸
 hjgx 一息尚存
 hjh 厃
@@ -19450,6 +19462,7 @@ idit 工资水平
 idit 许多方面
 idiv 許多工作
 idiv 默许
+idiv 默认
 idiv 言論
 idiv 言论
 idiv 黑夜
@@ -20364,6 +20377,7 @@ ihki 正前方
 ihkj 毫无关系
 ihkj 正道
 ihkj 正气
+ihkj 正版
 ihkn 旅館
 ihkn 旅馆
 ihkq 王牌
@@ -20664,6 +20678,7 @@ iidg 黑龍江省
 iidl 裏外
 iidl 里外
 iidn 讨论决定
+iidy 语法
 iiei 语录
 iifb 重點建設項目
 iifc 高新技术开发区
@@ -20720,6 +20735,7 @@ iihn 諒解
 iihn 默默无闻
 iihn 谅解
 iihn 理解
+iiho 语句
 iihq 訪華團
 iihq 诬蔑
 iihs 理亏
@@ -20789,6 +20805,7 @@ iiki 说话算话
 iiki 豪言壮语
 iiki 豪言壯語
 iikj 辩证关系
+iikj 语气
 iikk 说说笑笑
 iikl 瓏
 iiko 琣
@@ -21062,6 +21079,7 @@ ijkn 政府首腦
 ijkn 政府首脑
 ijko 裔
 ijks 譧
+ijky 重装
 ijl 珯
 ijl 讬
 ijl 託
@@ -23384,6 +23402,7 @@ iwni 瑰宝
 iwnl 现实性
 iwno 高級官員
 iwno 高级官员
+iwnt 设定
 iwot 恐吓
 iwp 邟
 iwpf 现阶段
@@ -23460,6 +23479,7 @@ ixb 昶
 ixba 读取
 ixbg 謓
 ixbg 瑱
+ixbh 变量
 ixbh 計量
 ixbh 剂量
 ixbh 计量
@@ -24671,6 +24691,7 @@ jbvv 臮
 jbvv 自從
 jbvv 自从
 jbvw 自个儿
+jbvx 厚德
 jbvy 自衛
 jbvz 皊
 jbw 皃
@@ -25533,6 +25554,8 @@ jjkw 覛
 jjky 原装
 jjl 厇
 jjld 原以为
+jjld 原教旨主义
+jjlj 原教旨主义者
 jjll 痛痛快快
 jjmg 原来
 jjmg 原材料
@@ -25788,6 +25811,7 @@ jmbj 采暖
 jmci 彩虹
 jmcx 奥林匹克
 jmdd 追根溯源
+jmdy 魔法
 jmdy 采油
 jmfi 采摘
 jmfj 摩托
@@ -27056,6 +27080,7 @@ jyai 妥善处理
 jyb 眚
 jybg 延期
 jybi 生日
+jybx 延时
 jycb 自由貿易
 jycb 自由贸易
 jyd 压
@@ -27253,6 +27278,7 @@ jzft 痛打
 jzfu 痛击
 jzfz 教书
 jzgd 教学法
+jzgg 所示
 jzgh 教师节
 jzgm 教学楼
 jzgn 教学
@@ -29163,6 +29189,7 @@ lbqn 东盟国家
 lbs 鴲
 lbsx 懪
 lbt 悍
+lbtq 桌面
 lbtv 惿
 lbvv 慢悠悠
 lbw 悓
@@ -30256,6 +30283,7 @@ lsbj 转瞬
 lsbp 转眼
 lsbx 憛
 lsdx 转为
+lsdx 转义
 lsek 转帐
 lsfh 转换
 lsfh 憾事
@@ -30825,6 +30853,7 @@ magm 整数
 magm 釐米
 magn 整党
 mahq 树苗
+mahu 极致
 mahr 整天
 mai 整
 maii 整理
@@ -31410,6 +31439,7 @@ mhfx 櫹
 mhfy 模特
 mhfy 相互指责
 mhfz 櫣
+mhfz 构建
 mhgh 本分
 mhgi 桱
 mhgj 本省
@@ -31484,6 +31514,7 @@ mhmf 桎梏
 mhmg 未来
 mhmg 本来
 mhmh 木本
+mjmh 析构
 mhmi 本校
 mhmj 模板
 mhmj 木板
@@ -32956,6 +32987,7 @@ nadb 客流量
 nadh 客满
 nadh 肤皮潦草
 nadi 客流
+nadi 客户端
 nadl 額外
 nadl 额外
 nadp 客户
@@ -33516,6 +33548,7 @@ ngdj 宗派
 ngdn 突然间
 ngdn 空洞
 ngdo 实况
+ngdo 冠名
 ngdp 窗户
 ngdr 突然
 ngdr 窥测
@@ -34169,6 +34202,7 @@ nifh 闹事
 nifo 臆造
 nifr 内部事務
 nifx 體育事業
+nifz 内建
 nig 宍
 nige 腣
 nige 脱产学习
@@ -35572,6 +35606,7 @@ nxbg 阗
 nxbj 内在联系
 nxd 守
 nxd 肘
+nxdj 闭源
 nxdr 宛然
 nxdy 守法
 nxfd 守护
@@ -35680,6 +35715,7 @@ nxxj 刚才
 nxxq 羀
 nxxx 脇
 nxxx 察覺
+nxyy 网址
 nxz 肋
 nxzi 刚劲
 nya 髏
@@ -35790,6 +35826,8 @@ nzd 迌
 nzfi 字串
 nzi 胫
 nzix 字迹
+nzkv 字符
+nzkf 字符串
 nzmy 字样
 nzq 艋
 nzql 字母
@@ -37497,6 +37535,7 @@ phnh 硬骨頭
 phni 隔阂
 phnj 石家庄
 phnl 陋
+phnq 硬盘
 phnq 礞
 phnt 确定
 phoe 石嘴山
@@ -38504,6 +38543,7 @@ pvi 陮
 pvi 砼
 pvi 碓
 pvib 陰謀
+pvid 附议
 pvid 礁
 pvih 队旗
 pvii 履行诺言
@@ -38582,6 +38622,7 @@ pvya 屨
 pvyi 附上
 pvyi 险境
 pvyj 附表
+pvyl 除此
 pvyl 险些
 pvyu 除去
 pvyv 屣
@@ -38824,6 +38865,7 @@ qajg 男女老少
 qakj 图片
 qal 囡
 qalw 畏难情绪
+qamg 图标
 qamy 图样
 qana 图案
 qao 狢
@@ -40784,6 +40826,7 @@ rhfu 炮击
 rhfw 夸赞
 rhfw 大选
 rhfx 灼热
+rhgb 大头照
 rhgf 大半
 rhgg 大少爷
 rhgh 夸耀
@@ -44887,6 +44930,7 @@ tofo 可靠
 tofu 祸患
 togu 歌頌
 togu 歌颂
+togv 歌谷
 tohh 可敬
 toho 可觀
 tohr 祦
@@ -44946,6 +44990,7 @@ toto 哥哥
 toto 哥
 tots 戨
 totv 歌
+totv 可视化
 toud 祸心
 toul 可能性
 toun 可能
@@ -44959,6 +45004,7 @@ tovq 歌舞团
 tow 祝
 towi 可见
 towj 可见度
+towv 哥儿们
 toxo 祝賀
 toxo 祝贺
 toxu 可悲
@@ -48973,6 +49019,7 @@ vihi 储蓄
 vihi 儲蓄
 vihi 知识更新
 vihj 储蓄所
+vihn 全角
 vihn 储蓄额
 vihn 悠久
 viho 全副
@@ -49910,6 +49957,7 @@ vlij 化工厂
 vlij 倾诉
 vlik 创立
 vlik 创新
+vlik 创意
 vlin 领导部门
 vlin 作战方案
 vlip 化工局
@@ -51653,6 +51701,7 @@ vxsj 做成
 vxsl 傤
 vxsl 今非昔比
 vxsp 得寸进尺
+vxsr 付费
 vxsx 智力开发
 vxtw 仇视
 vxtx 供过于求
@@ -51856,6 +51905,7 @@ vyxh 待业
 vyxg 待办
 vyxn 企業家
 vyxn 企业家
+vyxs 卸载
 vyxq 企業界
 vyxq 企业界
 vyxv 企業化
@@ -53244,6 +53294,7 @@ wnwg 缤纷
 wnx 綩
 wnx 纲
 wnxu 綋
+wnyi 综上
 wnyo 綢
 wnyo 绸
 woad 焏
@@ -53916,6 +53967,7 @@ wyi 凪
 wyi 縒
 wyi 紬
 wyig 结交
+wyig 绩效
 wyio 纸上谈兵
 wyio 结识
 wyiv 結論
@@ -54624,6 +54676,7 @@ xhbh 對照
 xhdl 對外
 xhei 十足
 xhei 登山
+xhei 登录
 xhey 對峙
 xhfi 對抗
 xhfj 對手
@@ -54735,6 +54788,7 @@ xhus 有无必要
 xhvf 十年
 xhvh 业余
 xhvi 十億
+xhvj 登入
 xhvt 杀一儆百
 xhvx 對付
 xhvy 對待
@@ -55502,6 +55556,7 @@ xowx 兙
 xowx 兛
 xowx 勀
 xowx 勊
+xoxs 加载
 xoxz 右边
 xoxz 加力
 xoyg 加熱
@@ -57012,6 +57067,7 @@ yivo 城市人口
 yivq 地理位置
 yivr 埋伏
 yivs 差價
+yivs 上传
 yivv 差价
 yivx 埣
 yivx 上午
@@ -57124,6 +57180,8 @@ yjsa 羻
 yjsd 羝
 yjsd 坻
 yjsg 壙
+yjsg 表形
+yjsp 表形码
 yjt 埩
 yjt 圻
 yjt 坼
@@ -57447,6 +57505,7 @@ ynqx 养猪业
 ynrb 青春
 ynrb 青春期
 ynrh 养大
+ynrd 静态
 yns 鶄
 ynse 青岛
 ynsj 養成
@@ -57677,6 +57736,7 @@ ypip 邮政局
 ypix 声讨
 ypjb 声息
 ypk 垠
+ypkm 邮箱
 ypkh 塀
 ypl 坭
 ypli 邮电
@@ -57877,6 +57937,7 @@ yrz 垯
 yrz 遗
 yrz 块
 ysbx 墰
+ysdo 域名
 ysco 城區
 yscx 城区
 ysfp 城建局
@@ -58300,6 +58361,7 @@ yykj 報道
 yykk 地地道道
 yyko 墡
 yykr 報送
+yyky 封装
 yyl 鼃
 yyl 卦
 yyld 報以
