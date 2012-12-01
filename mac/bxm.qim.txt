@@ -5390,6 +5390,7 @@ dlf 浺
 dlfh 外事
 dlfj 外援
 dlfk 外長
+dlfy 外挂
 dlge 外幣
 dlgg 池州
 dlgg 污七八糟
@@ -11703,6 +11704,7 @@ ftfg 打扮
 ftfh 打捞
 ftfi 打中
 ftfj 拒不接受
+ftfj 打折
 ftfl 打掉
 ftfo 打招呼
 ftfu 抨擊
@@ -11728,6 +11730,7 @@ fth 拝
 fth 軒
 fth 打
 fthd 打死
+fthl 打包
 fthn 押解
 fthn 挥霍一空
 fti 押
@@ -12248,8 +12251,8 @@ fwii 赞语
 fwij 投訴
 fwij 投诉
 fwin 选调
-fwio 輕紡産品
 fwir 畅谈
+fwit 选项
 fwiv 赞许
 fwj 先
 fwjb 选自
@@ -20301,6 +20304,7 @@ ihhh 五一
 ihhh 五一节
 ihhi 五一劳动奖章
 ihhk 功亏一篑
+ihhn 正解
 ihho 工藝品
 ihho 工艺品
 ihho 正副
@@ -23585,6 +23589,7 @@ ixgv 工业总产值
 ixgv 主办单位
 ixgw 永远
 ixgy 新聞公報
+ixgz 认真学习礼貌回复坚决鄙视纯围观注水行为
 ixh 計
 ixh 弈
 ixh 计
@@ -28133,6 +28138,7 @@ kjth 將于
 kjtl 片面性
 kjtq 片面
 kjtq 版面
+kjtr 首页
 kjtw 气度不凡
 kju 饀
 kjui 逆反心理
@@ -30889,6 +30895,7 @@ mamh 树木
 mami 相对来说
 mamm 树林
 mamw 整机
+mamz 极速
 manb 权宜
 mang 整容
 manj 整月
@@ -33167,6 +33174,7 @@ nbly 胆怯
 nbm 腜
 nbmd 究其根源
 nbno 宜宾
+nbnx 官网
 nbog 官兵
 nbor 官員
 nbor 官员
@@ -35824,6 +35832,7 @@ nzba 阚
 nzbp 字眼
 nzd 迌
 nzfi 字串
+nzfw 字段
 nzi 胫
 nzix 字迹
 nzkv 字符
@@ -39974,6 +39983,7 @@ qspv 國際化
 qspx 國際
 qspx 國際間
 qspy 國際上
+qsqh 猎豹
 qsra 國務
 qsrp 國務院
 qsrr 國營
@@ -53854,6 +53864,7 @@ wxfz 续建
 wxgg 縩
 wxgh 风光
 wxgi 幼小
+wxgm 函数
 wxgn 风尚
 wxgu 风云
 wxgy 风尘
@@ -54330,6 +54341,7 @@ xbng 真空
 xbnl 真实性
 xbnq 真實
 xbns 真实感
+xbpb 朝阳
 xbpc 直属
 xbpg 間隙
 xbpi 直屬
