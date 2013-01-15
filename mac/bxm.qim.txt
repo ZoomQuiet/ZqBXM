@@ -49043,9 +49043,9 @@ viht 衝
 vihv 全天候
 vihw 全无
 vihy 進一步
+vii 个
 vii 俚
 vii 徰
-vii 个
 viia 進攻
 viib 知识就是力量
 viib 依旧
@@ -53516,6 +53516,7 @@ wsoh 魊
 wsoh 緎
 wsqz 绕圈子
 wss 綫
+wsth 线下
 wsuo 线程
 wsvx 引进人才
 wswb 缥缈
@@ -53525,6 +53526,7 @@ wsxe 经费支出
 wsxn 綫索
 wsxn 线索
 wsy 緸
+wsyi 线上
 wsyg 彉
 wsz 紼
 wsz 绋
