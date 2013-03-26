@@ -30,15 +30,19 @@ Zq's 表形码
 变迁
 ------------------
 
-- 1999 之后,随身带着从 Windows NT 扒出的 BXM,从 2001 到 2003 一直修订注册表来加载使用
-- 2006 迁移到 Ubuntu 通过 SCIM 平台,迁移出来
-
-    - 使用 [Win码表到SCIM码表的转换工具—mb2scim](http://floss.zoomquiet.org/data/20060723153716/index.html)
-
+- 2013 QIM 总是有各种不如意,机缘巧合之下,知道了 中州韵,鼠须管! 哗!快乐继续...[快乐继续...](https://github.com/ZoomQuiet/ZqBXM/blob/master/Rime-Squirrel/README.md)
+- 2012 通过自行折腾,将 SCIM 格式的码表转换为 QIM 兼容的,通过外挂码表,幸福的重新表形码起来
+[重新表形码起来](https://github.com/ZoomQuiet/ZqBXM/blob/master/mac/README.md)
 - 2011 正式要进入 MAC 世界了, 也得自个儿想着迁移
 
     - 友人 [白贵兴](http://blog.khsing.net/) 曾经尝试过
     - [GuiXing/BiaoXinInputMod - Woodpecker Wiki for CPUG](http://wiki.woodpecker.org.cn/moin/GuiXing/BiaoXinInputMod)
+
+- 2006 迁移到 Ubuntu 通过 SCIM 平台,迁移出来
+
+    - 使用 [Win码表到SCIM码表的转换工具—mb2scim](http://floss.zoomquiet.org/data/20060723153716/index.html)
+
+- 1999 之后,随身带着从 Windows NT 扒出的 BXM,从 2001 到 2003 一直修订注册表来加载使用
 
 现在,在这儿,收集过往的所有 BXM 形态,以便流传!
 
