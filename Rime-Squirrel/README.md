@@ -60,23 +60,24 @@
 
 - 进入 `~/Library/Rime/` 配置 `默许配置` ~ `default.yaml` ::
 
-    schema_list:
-      - schema: bxm4zq2mac
-      - schema: luna_pinyin_simp
-    #  - schema: luna_pinyin
-    #  - schema: cangjie5
-    #  - schema: luna_pinyin_fluency
+        schema_list:
+          - schema: bxm4zq2mac
+          - schema: luna_pinyin_simp
+        #  - schema: luna_pinyin
+        #  - schema: cangjie5
+        #  - schema: luna_pinyin_fluency
+
 
 - 即关闭不用的输入方案,就保留 简体拼音以及自个儿的BXM
 - 点击输入法状态图标点开后 `重新部属`  
 - 观察 `$TMPDIR/rime.squirrel.INFO` 见到以下类似的,就说明加载正确::
         
-    I0326 16:21:23.431095 23597056 deployment_tasks.cc:148] schema: bxm4zq2mac
-    I0326 16:21:23.431114 23597056 config.cc:551] loading config file '/Users/zoomq/Library/Rime/bxm4zq2mac.schema.yaml'.
-    I0326 16:21:23.443059 23597056 config.cc:551] loading config file '/Users/zoomq/Library/Rime/bxm4zq2mac.schema.yaml'.
-    I0326 16:21:23.444592 23597056 customizer.cc:85] config file '/Users/zoomq/Library/Rime/bxm4zq2mac.schema.yaml' is up-to-date.
-    I0326 16:21:23.444665 23597056 config.cc:551] loading config file '/Users/zoomq/Library/Rime/bxm4zq2mac.schema.yaml'.
-    ...
+        I0326 16:21:23.431095 23597056 deployment_tasks.cc:148] schema: bxm4zq2mac
+        I0326 16:21:23.431114 23597056 config.cc:551] loading config file '/Users/zoomq/Library/Rime/bxm4zq2mac.schema.yaml'.
+        I0326 16:21:23.443059 23597056 config.cc:551] loading config file '/Users/zoomq/Library/Rime/bxm4zq2mac.schema.yaml'.
+        I0326 16:21:23.444592 23597056 customizer.cc:85] config file '/Users/zoomq/Library/Rime/bxm4zq2mac.schema.yaml' is up-to-date.
+        I0326 16:21:23.444665 23597056 config.cc:551] loading config file '/Users/zoomq/Library/Rime/bxm4zq2mac.schema.yaml'.
+        ...
 
 
 
@@ -92,16 +93,16 @@
 
 - 然后调用转换脚本 ::
 
-    $ python fix2Squirrel4BXM.py bxm.qim.txt
-    bxm.qim.txt
-    #   BASE bxm2006zq for Ubuntu
-    #   - 120105 Zoom.Quiet testing why chaos...
-    #   - 111231 Zoom.Quiet appended +3 user words
-    #   - 111229 Zoom.Quiet appended 300 user words from Ubuntu SCIM
-    #   - 111221 Zoom.Quiet creat for BXM jump in QIM
-    #EN
-         共处理:60121 行
-    >>>输出为: bxm4zq2mac.dict.txt
+        $ python fix2Squirrel4BXM.py bxm.qim.txt
+        bxm.qim.txt
+        #   BASE bxm2006zq for Ubuntu
+        #   - 120105 Zoom.Quiet testing why chaos...
+        #   - 111231 Zoom.Quiet appended +3 user words
+        #   - 111229 Zoom.Quiet appended 300 user words from Ubuntu SCIM
+        #   - 111221 Zoom.Quiet creat for BXM jump in QIM
+        #EN
+             共处理:60121 行
+        >>>输出为: bxm4zq2mac.dict.txt
 
 
 - 最后将增补成功的 `bxm4zq2mac.dict.txt` 复制到 `~/Library/Rime/` 重新部属生成新的相关数据就好!
