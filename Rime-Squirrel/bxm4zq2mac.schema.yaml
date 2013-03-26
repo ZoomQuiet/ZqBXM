@@ -71,14 +71,15 @@ abc_segmentor:
     - reverse_lookup
 
 reverse_lookup:
-  dictionary: luna_pinyin
+  dictionary: luna_pinyin_simp
   prefix: "`"
   suffix: "'"
   tips: 〔拼音〕
   preedit_format:
     - xform/([nljqxy])v/$1ü/
   comment_format:
-    - "xlit|abcdefghijklmnopqrstuvwxyz|日月金木水火土竹戈十大中一弓人心手口尸廿山女田難卜符|"
+    - "xlit|abcdefghijklmnopqrstuvwxyz|好是区为出中小一这的并也来用哪即国大我于和人了在上子|"
+#    - "xlit|abcdefghijklmnopqrstuvwxyz|日月金木水火土竹戈十大中一弓人心手口尸廿山女田難卜符|"
 
 punctuator:
   import_preset: default
