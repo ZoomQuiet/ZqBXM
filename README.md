@@ -7,7 +7,7 @@ Zq's 表形码
 - 俺用得非常爽! 从 M$/Ubuntu/MAC 一路伴随
 - 所以,最终得要找个专门的地方分享出来!
 
-自学下载: [BXM-新编电脑打字七日通(全民版).pdf](https://github.com/ZoomQuiet/ZqBXM/raw/master/BXM-%E6%96%B0%E7%BC%96%E7%94%B5%E8%84%91%E6%89%93%E5%AD%97%E4%B8%83%E6%97%A5%E9%80%9A(%E5%85%A8%E6%B0%91%E7%89%88).pdf)
+自学下载: [BXM-新编电脑打字七日通(全民版)](https://github.com/ZoomQuiet/ZqBXM/raw/master/BXM_%E6%89%93%E5%AD%97%E4%B8%83%E6%97%A5%E9%80%9A_%E5%85%A8%E6%B0%91%E7%89%88.pdf)
 
 
 历史
