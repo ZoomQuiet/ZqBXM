@@ -9888,6 +9888,8 @@ figa 中坚
 figb 提高单位面积产量
 fige 揥
 figg 中小学
+figg 中州
+figg 中州韻
 figh 搒
 figi 較小
 figj 較少
@@ -38970,6 +38972,7 @@ qddn 四海为家
 qdgj 猀
 qdhd 圆满解决
 qdhd 罗列
+qdio 狼毫
 qdiy 国外市场
 qdj 罗
 qdjd 置之度外
@@ -40641,6 +40644,7 @@ reei 燿
 reek 熤
 rei 灿
 reid 燖
+reim 中州韻
 reix 煤炭工业
 rejt 泰山压顶
 remf 奔走相告
@@ -43323,6 +43327,7 @@ sqiu 農田水利
 sqr 骃
 sqr 駰
 squ 騦
+squi 鼠鬚管
 sqvp 我國人民
 sqvp 我国人民
 sqvq 醞
@@ -46402,8 +46407,11 @@ ugm 梨
 ugma 毇
 ugmf 鱗
 ugmf 鳞
+ugmg 鼠标
+ugfk 鼠鬚管
+uggk 鼠须管
 ugn 鮹
-ugn 稍
+ugn 稍等
 ugna 翻案
 ugna 税额
 ugnb 鱨
@@ -52313,6 +52321,7 @@ wdyz 经济封锁
 wdz 冘
 wdzd 见义勇为
 wea 弢
+weas 小狼毫
 wedd 绿油油
 wedg 緑洲
 wedg 绿洲
