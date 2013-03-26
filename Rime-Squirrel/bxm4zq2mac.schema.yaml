@@ -53,13 +53,13 @@ engine:
 speller:
   alphabet: zyxwvutsrqponmlkjihgfedcba
   delimiter: " ;'"
-  #max_code_length: 5
+  max_code_length: 4
 
 translator:
   dictionary: bxm4zq2mac
   enable_charset_filter: true
   preedit_format:
-    - "xlit|abcdefghijklmnopqrstuvwxyz;'|好是区为出中小一这的并也来用哪即国大我于和人了在上子・|"
+    - "xlit|abcdefghijklmnopqrstuvwxyz;'|好是区为出中小一这的并也来用哪即国大我于和人了在上子;|"
   comment_format:
     - "xlit|abcdefghijklmnopqrstuvwxyz~|好是区为出中小一这的并也来用哪即国大我于和人了在上子~|"
   disable_user_dict_for_patterns:

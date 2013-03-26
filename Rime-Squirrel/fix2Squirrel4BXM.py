@@ -2,6 +2,7 @@
 #!/usr/bin/python
 #
 '''for MAC rimeIME Squirrel reformat QIM table 
+    
 '''
 import sys
 #import traceback
