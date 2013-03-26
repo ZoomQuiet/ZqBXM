@@ -1,0 +1,103 @@
+# Rime alternative settings
+# encoding: utf-8
+#
+# difference from default settings:
+# 1. ascii-style punctuation in half-shape mode
+# 2. [ ] as paging keys
+#
+# save this file as:
+# (Linux)   ~/.config/ibus/rime/alternative.yaml
+# (Mac OS)  ~/Library/Rime/alternative.yaml
+# (Windows) "%APPDATA%\Rime\alternative.yaml"
+# 
+# edit <SCHEMA_ID>.custom.yaml:
+# >> patch:
+# >>   'punctuator/import_preset': alternative
+# >>   'key_binder/import_preset': alternative
+#
+# for detailed explanation, refer to:
+# http://code.google.com/p/rimeime/wiki/CustomizationGuide#%E4%BD%BF%E7%94%A8%E5%85%A8%E5%A5%97%E8%A5%BF%E6%96%87%E6%A8%99%E9%BB%9E 
+
+config_version: "0.3"
+
+punctuator:
+  full_shape:
+    " " : { commit: "　" }
+    "," : { commit: ， }
+    "." : { commit: 。 }
+    "<" : [ 《, 〈, «, ‹ ]
+    ">" : [ 》, 〉, », › ]
+    "/" : [ 、, ／, "/", ÷ ]
+    "?" : { commit: ？ }
+    ";" : { commit: ； }
+    ":" : ：
+    "'" : { pair: [ "‘", "’" ] }
+    "\"" : { pair: [ "“", "”" ] }
+    "\\" : [ 、, ＼, "\\" ]
+    "|" : [ ・, ｜, "|", "§", "¦" ]
+    "`" : [ ｀, "`" ]
+    "~" : [ 〜, "~", ～, 〰 ]
+    "!" : { commit: ！ }
+    "@" : [ ＠, "@", ☯ ]
+    "#" : [ ＃, "#", ⌘ ]
+    "%" : [ ％, "%", "°", "℃" ]
+    "$" : [ ￥, "$", "€", "£", "¥", "¢", "¤" ]
+    "^" : { commit: …… }
+    "&" : [ ＆, "&" ]
+    "*" : [ ＊, "*", ・, ×, ※, ❂, · ]
+    "(" : （
+    ")" : ）
+    "-" : [ －, "-" ]
+    "_" : ——
+    "+" : [ ＋, "+" ]
+    "=" : [ ＝, "=" ]
+    "[" : [ 「, 【, 〔, ［ ]
+    "]" : [ 」, 】, 〕, ］ ]
+    "{" : [ 『, 〖, ｛ ]
+    "}" : [ 』, 〗, ｝ ]
+  half_shape:
+    "," : { commit: "," }
+    "." : { commit: "." }
+    "<" : "<"
+    ">" : ">"
+    "/" : "/"
+    "?" : { commit: "?" }
+    ";" : { commit: ";" }
+    ":" : { commit: ":" }
+    "'" : "'"
+    "\"" : "\""
+    "\\" : "\\"
+    "|" : "|"
+    "`" : "`"
+    "~" : "~"
+    "!" : { commit: "!" }
+    "@" : "@"
+    "#" : "#"
+    "%" : "%"
+    "$" : "$"
+    "^" : "^"
+    "&" : "&"
+    "*" : "*"
+    "(" : "("
+    ")" : ")"
+    "-" : "-"
+    "_" : "_"
+    "+" : "+"
+    "=" : "="
+    "[" : "["
+    "]" : "]"
+    "{" : "{"
+    "}" : "}"
+
+key_binder:
+  bindings:
+    # commonly used paging keys
+    - { when: composing, accept: ISO_Left_Tab, send: Page_Up }
+    - { when: composing, accept: Shift+Tab, send: Page_Up }
+    - { when: composing, accept: Tab, send: Page_Down }
+    - { when: has_menu, accept: minus, send: Page_Up }
+    - { when: has_menu, accept: equal, send: Page_Down }
+    - { when: paging, accept: comma, send: Page_Up }
+    - { when: has_menu, accept: period, send: Page_Down }
+    - { when: paging, accept: bracketleft, send: Page_Up }
+    - { when: has_menu, accept: bracketright, send: Page_Down }
