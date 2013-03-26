@@ -69,7 +69,7 @@
 
 
 - 即关闭不用的输入方案,就保留 简体拼音以及自个儿的BXM
-- 点击输入法状态图标点开后 `重新部属`  
+- 点击输入法状态图标点开后 `重新部署`  
 ![Deploy MAC](reime-deploy-mac.png)
 
 - 观察 `$TMPDIR/rime.squirrel.INFO` 见到以下类似的,就说明加载正确::
