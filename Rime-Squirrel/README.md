@@ -31,7 +31,7 @@
 - [如何从QIM迁移至Squirrel（鼠鬚管） - CocoaBob](http://cocoabob.net/?p=919)
 
 
-表形码自学资料下载: BXM-新编电脑打字七日通(全民版).pdf
+表形码自学资料下载: [BXM-新编电脑打字七日通(全民版).pdf](https://github.com/ZoomQuiet/ZqBXM/raw/master/BXM-%E6%96%B0%E7%BC%96%E7%94%B5%E8%84%91%E6%89%93%E5%AD%97%E4%B8%83%E6%97%A5%E9%80%9A(%E5%85%A8%E6%B0%91%E7%89%88).pdf)
 
 
 自制
