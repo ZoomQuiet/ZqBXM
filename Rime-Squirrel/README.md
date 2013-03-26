@@ -58,7 +58,7 @@
     bxm4zq2mac.dict.yaml
     bxm4zq2mac.schema.yaml
 
-- 进入 `~/Library/Rime/` 配置 `默许配置` ~ `default.yaml`:
+- 进入 `~/Library/Rime/` 配置 `默许配置` ~ `default.yaml` ::
 
     schema_list:
       - schema: bxm4zq2mac
@@ -69,7 +69,7 @@
 
 - 即关闭不用的输入方案,就保留 简体拼音以及自个儿的BXM
 - 点击输入法状态图标点开后 `重新部属`  
-- 观察 `$TMPDIR/rime.squirrel.INFO` 见到以下类似的,就说明加载正确
+- 观察 `$TMPDIR/rime.squirrel.INFO` 见到以下类似的,就说明加载正确::
         
     I0326 16:21:23.431095 23597056 deployment_tasks.cc:148] schema: bxm4zq2mac
     I0326 16:21:23.431114 23597056 config.cc:551] loading config file '/Users/zoomq/Library/Rime/bxm4zq2mac.schema.yaml'.
@@ -90,7 +90,7 @@
 
     词条 [空格] 码值
 
-- 然后调用转换脚本:
+- 然后调用转换脚本 ::
 
     $ python fix2Squirrel4BXM.py bxm.qim.txt
     bxm.qim.txt
