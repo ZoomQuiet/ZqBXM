@@ -1,32 +1,11 @@
-# Rime schema settings
-# encoding: utf-8
-
-schema:
-  schema_id: bxm4zq2mac
-  name: 表形码2006版ZQ定制版
-  version: "13.3.26"
-  author:
-    - 發明人 陈爱文先生
-    - 定制者 Zoom.Quiet <zoomquiet+bxm@gmail.com>
-  description: |
-    旅居法國的華僑人士陳愛文於80年代發明的杰出形码;
-    后因陷入法律纠纷,在市场化方面败于五笔...
-    zh.wikipedia.org/zh-hk/表形碼
-  dependencies:
-    - luna_pinyin
-
-switches:
-  - name: ascii_mode
-    reset: 0
-    states: [ 中文, 西文 ]
-  - name: full_shape
-    states: [ 半角, 全角 ]
-  - name: simplification
-    states: [ 漢字, 汉字 ]
-  - name: extended_charset
-    states: [ 通用, 增廣 ]
-
+abc_segmentor:
+  extra_tags:
+    - reverse_lookup
+customization: 2397138135
 engine:
+  filters:
+    - simplifier
+    - uniquifier
   processors:
     - ascii_composer
     - recognizer
@@ -46,48 +25,63 @@ engine:
     - punct_translator
     - reverse_lookup_translator
     - table_translator
-  filters:
-    - simplifier
-    - uniquifier
-
-speller:
-  alphabet: zyxwvutsrqponmlkjihgfedcba
-  delimiter: " ;'"
-  max_code_length: 4
-
-translator:
-  dictionary: bxm4zq2mac
-  enable_charset_filter: true
-  preedit_format:
-    - "xlit|abcdefghijklmnopqrstuvwxyz;'|好是区为出中小一这的并也来用哪即国大我于和人了在上子;|"
-  comment_format:
-    - "xlit|abcdefghijklmnopqrstuvwxyz~|好是区为出中小一这的并也来用哪即国大我于和人了在上子~|"
-  disable_user_dict_for_patterns:
-    - "^z.*$"
-    - "^yyy.*$"
-
-abc_segmentor:
-  extra_tags:
-    - reverse_lookup
-
-reverse_lookup:
-  dictionary: luna_pinyin_simp
-  prefix: "`"
-  suffix: "'"
-  tips: 〔拼音〕
-  preedit_format:
-    - xform/([nljqxy])v/$1ü/
-  comment_format:
-    - "xlit|abcdefghijklmnopqrstuvwxyz|好是区为出中小一这的并也来用哪即国大我于和人了在上子|"
-#    - "xlit|abcdefghijklmnopqrstuvwxyz|日月金木水火土竹戈十大中一弓人心手口尸廿山女田難卜符|"
-
-punctuator:
-  import_preset: default
-
 key_binder:
   import_preset: default
-
+punctuator:
+  import_preset: alternative
 recognizer:
   import_preset: default
   patterns:
     reverse_lookup: "`[a-z]*'?$"
+reverse_lookup:
+  comment_format:
+    - "xlit|abcdefghijklmnopqrstuvwxyz|好是区为出中小一这的并也来用哪即国大我于和人了在上子|"
+  dictionary: luna_pinyin_simp
+  preedit_format:
+    - "xform/([nljqxy])v/$1ü/"
+  prefix: "`"
+  suffix: "'"
+  tips: "〔拼音〕"
+schema:
+  author:
+    - "發明人 陈爱文先生"
+    - "定制者 Zoom.Quiet <zoomquiet+bxm@gmail.com>"
+  dependencies:
+    - luna_pinyin_simp
+  description: "旅居法國的華僑人士陳愛文於80年代發明的杰出形码;\x0a后因陷入法律纠纷,在市场化方面败于五笔...\x0azh.wikipedia.org/zh-hk/表形碼\x0a"
+  name: "表形码2006版ZQ定制版"
+  schema_id: bxm4zq2mac
+  version: 13.3.26.custom.2397138135
+speller:
+  alphabet: zyxwvutsrqponmlkjihgfedcba
+  delimiter: " ;'"
+  max_code_length: 4
+switches:
+  - name: ascii_mode
+    reset: 0
+    states:
+      - "中文"
+      - "西文"
+  - name: full_shape
+    states:
+      - "半角"
+      - "全角"
+  - name: simplification
+    states:
+      - "漢字"
+      - "汉字"
+  - name: extended_charset
+    states:
+      - "通用"
+      - "增廣"
+translator:
+  comment_format:
+    - "xlit|abcdefghijklmnopqrstuvwxyz~|好是区为出中小一这的并也来用哪即国大我于和人了在上子~|"
+  dictionary: bxm4zq2mac
+  disable_user_dict_for_patterns:
+    - "^z.*$"
+    - "^yyy.*$"
+  enable_charset_filter: true
+  enable_user_dict: false
+  preedit_format:
+    - "xlit|abcdefghijklmnopqrstuvwxyz;'|好是区为出中小一这的并也来用哪即国大我于和人了在上子;|"
