@@ -47,7 +47,6 @@
 -   +-- fix2Squirrel4BXM.py     QIM->Squirrel 码表格式转换脚本
 -   +-- README.md               本文
 -   +-- alternative.yaml        来自 http://gist.github.com/2334409 纯E文标点集
--   +-- default.yaml            参考默许配置
 -   +-- default.custom.yaml     bxm4zq2mac 对应的用户默许配置
 -   +-- squirrel.custom.yaml    bxm4zq2mac 对应的全局配置
 
