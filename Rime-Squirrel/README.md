@@ -40,13 +40,17 @@
 当前方案相关文档说明 ./ 
 
 -   +-- 2006-bxm4zq.bin.user.txt 从win98时代扒出来,一步步完善的个人BXM 码表
--   +-- README.md               本文
--   +-- alternative.yaml        来自 http://gist.github.com/2334409
 -   +-- bxm.qim.txt             MAC 时代感 给QIM 使用的码表
--   +-- bxm4zq2mac.custom.yaml  自制表形码方案定制声明
--   +-- bxm4zq2mac.dict.yaml    自制表形码方案字典
--   +-- bxm4zq2mac.schema.yaml  自制表形码方案声明
+-   +-- bxm4zq2mac.dict.yaml    bxm4zq2mac 方案字典
+-   +-- bxm4zq2mac.schema.yaml  bxm4zq2mac 方案声明
+-   +-- bxm4zq2mac.custom.yaml  bxm4zq2mac 方案定制声明
 -   +-- fix2Squirrel4BXM.py     QIM->Squirrel 码表格式转换脚本
+-   +-- README.md               本文
+-   +-- alternative.yaml        来自 http://gist.github.com/2334409 纯E文标点集
+-   +-- default.yaml            参考默许配置
+-   +-- default.custom.yaml     bxm4zq2mac 对应的用户默许配置
+-   +-- squirrel.custom.yaml    bxm4zq2mac 对应的全局配置
+
 
 
 如果想部属在你自个儿的环境中,如下简要流程:
@@ -54,21 +58,13 @@
 - 将方案相关文件复制到 `~/Library/Rime/` :
 
     alternative.yaml
-    bxm4zq2mac.custom.yaml
     bxm4zq2mac.dict.yaml
     bxm4zq2mac.schema.yaml
-
-- 进入 `~/Library/Rime/` 配置 `默许配置` ~ `default.yaml` ::
-
-        schema_list:
-          - schema: bxm4zq2mac
-          - schema: luna_pinyin_simp
-        #  - schema: luna_pinyin
-        #  - schema: cangjie5
-        #  - schema: luna_pinyin_fluency
+    bxm4zq2mac.custom.yaml
+    default.custom.yaml
+    squirrel.custom.yaml
 
 
-- 即关闭不用的输入方案,就保留 简体拼音以及自个儿的BXM
 - 点击输入法状态图标点开后 `重新部署`  
 ![Deploy MAC](reime-deploy-mac.png)
 
@@ -80,6 +76,10 @@
         I0326 16:21:23.444592 23597056 customizer.cc:85] config file '/Users/zoomq/Library/Rime/bxm4zq2mac.schema.yaml' is up-to-date.
         I0326 16:21:23.444665 23597056 config.cc:551] loading config file '/Users/zoomq/Library/Rime/bxm4zq2mac.schema.yaml'.
         ...
+
+- 按下`Alt+\` ` 应该见到生效后的选单  
+
+![Deploy MAC](reime-switcher.png)
 
 
 
