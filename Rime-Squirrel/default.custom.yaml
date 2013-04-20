@@ -1,5 +1,6 @@
 # Rime default settings Custom
 # encoding: utf-8
+# 
 
 patch:
   "menu/page_size": 7   # 候选项数
@@ -8,6 +9,6 @@ patch:
     - schema: luna_pinyin_simp
   "switcher/hotkeys":  # 這個列表裏每項定義一個快捷鍵，使哪個都中
     - "Alt+grave"      
-    - "Control+grave"  # 你看寫法並不是 Ctrl+` 而是與 IBus 一致的表示法
-    - F4
+    #- "Control+grave"  # 你看寫法並不是 Ctrl+` 而是與 IBus 一致的表示法
+    #- F4
 

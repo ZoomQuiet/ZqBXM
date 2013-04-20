@@ -31,7 +31,7 @@ def reformat(qimf):
             exp += "%s\t%s\n"%(d[1], d[0])
 
     print "\t 共处理:%d 行" % totlel
-    print ">>>输出为: bxm4zq2mac.dict.txt"
+    print ">>>输出为: bxm4zq2mac.dict.yaml"
     open("bxm4zq2mac.dict.yaml", 'w').write(exp)
 
 if __name__ == '__main__':      # this way the module can be

@@ -22523,6 +22523,7 @@ irwh 谢绝
 irxb 重大問題
 irxd 謝
 irxd 谢
+irxj 贡献者
 irxn 贡献
 irys 正则表达式
 irz 訣
@@ -58086,7 +58087,7 @@ yuj 鮺
 yuj 鲝
 yuja 去處
 yujf 志愿书
-yujj 志願
+yujj 志愿者
 yujj 志愿
 yujn 去向
 yujn 志愿军

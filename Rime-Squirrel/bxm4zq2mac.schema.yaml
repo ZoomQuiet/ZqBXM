@@ -34,9 +34,7 @@ recognizer:
   patterns:
     reverse_lookup: "`[a-z]*'?$"
 reverse_lookup:
-  comment_format:
-    - "xlit|abcdefghijklmnopqrstuvwxyz|好是区为出中小一这的并也来用哪即国大我于和人了在上子|"
-  dictionary: luna_pinyin_simp
+  dictionary: luna_pinyin
   preedit_format:
     - "xform/([nljqxy])v/$1ü/"
   prefix: "`"
@@ -75,13 +73,9 @@ switches:
       - "通用"
       - "增廣"
 translator:
-  comment_format:
-    - "xlit|abcdefghijklmnopqrstuvwxyz~|好是区为出中小一这的并也来用哪即国大我于和人了在上子~|"
   dictionary: bxm4zq2mac
   disable_user_dict_for_patterns:
     - "^z.*$"
     - "^yyy.*$"
   enable_charset_filter: true
   enable_user_dict: false
-  preedit_format:
-    - "xlit|abcdefghijklmnopqrstuvwxyz;'|好是区为出中小一这的并也来用哪即国大我于和人了在上子;|"
