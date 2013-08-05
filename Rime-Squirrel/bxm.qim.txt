@@ -20872,6 +20872,7 @@ iiqj 五讲四美三热爱
 iiqk 瓌
 iiqy 工商界人士
 iiqy 五讲四美
+iird 高端大气上档次
 iirq 立功赎罪
 iirx 註射
 iirx 理财
@@ -25689,6 +25690,7 @@ jlco 老區
 jlcx 老区
 jlda 老汉
 jlda 老婆
+jldb 老湿
 jldb 自以为是
 jldl 老外
 jldm 老资格
@@ -38443,6 +38445,7 @@ psvi 研修班
 psvi 民進
 psvv 民众
 pswx 民风
+psxa 研发
 psxa 展翅
 psxb 民間
 psxg 民办
@@ -39064,6 +39067,7 @@ qgs 猶
 qgsv 独断专行
 qgt 狮
 qgth 园丁
+qgtj 累觉不爱
 qgtj 罤
 qgtq 圙
 qgtq 回归祖国
@@ -39163,6 +39167,7 @@ qhwn 畏缩
 qhwv 還給
 qhxn 還有
 qiac 国务卿
+qiad 男默女泪
 qiae 恩重如山
 qiah 狂欢
 qiap 国务院
@@ -42763,6 +42768,8 @@ shxa 开发
 shxa 开支
 shxc 开发区
 shxd 专业户
+shxj 开发者
+shxi 开发者关系管理
 shxg 开办
 shxh 专业
 shxh 开业
@@ -43479,6 +43486,7 @@ summ 酸楚
 suo 駘
 suo 骀
 surg 骖
+susw 我和我的小伙伴们都惊呆了
 susz 骏马
 suug 醦
 suug 驂
@@ -43606,6 +43614,7 @@ sxiv 農業現代化
 sxix 農業部門
 sxj 駣
 sxjg 農業生産資料
+sxji 开发者关系管理
 sxji 農業生産
 sxjt 駁斥
 sxjt 驳斥
@@ -43836,6 +43845,7 @@ tbgd 百分之
 tbgg 百分数
 tbgh 百分
 tbgi 百分率
+tbgj 不明觉厉
 tbgj 百分制
 tbgl 百分比
 tbgl 百分点
@@ -47594,6 +47604,7 @@ vao 佫
 vao 侞
 vapp 仅限
 vaq 俻
+vatf 人艰不拆
 vats 知难而进
 vaty 知难而上
 vava 仅仅
@@ -53427,6 +53438,7 @@ wqhq 细菌
 wqhu 细致
 wqi 細
 wqi 细
+wqim 细思恐极
 wqj 絼
 wqk 綥
 wqkj 细长
@@ -54610,6 +54622,7 @@ xgaz 办好
 xgbb 非常时期
 xgbp 十分明確
 xgbp 十分明确
+xgdf 十动然拒
 xgdh 十分激烈
 xgdi 十分滿意
 xgdi 十分注意
