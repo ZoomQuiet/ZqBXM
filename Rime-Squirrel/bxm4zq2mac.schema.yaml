@@ -47,7 +47,7 @@ schema:
   dependencies:
     - luna_pinyin_simp
   description: "旅居法國的華僑人士陳愛文於80年代發明的杰出形码;\x0a后因陷入法律纠纷,在市场化方面败于五笔...\x0azh.wikipedia.org/zh-hk/表形碼\x0a"
-  name: "表形码2006版ZQ定制版"
+  name: "表形码ZQ私用版"
   schema_id: bxm4zq2mac
   version: 13.3.26.custom.2397138135
 speller:

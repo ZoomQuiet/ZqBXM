@@ -1674,6 +1674,7 @@ bhfg 照抄
 bhfi 顯著特點
 bhfl 显著特点
 bhfn 照搬
+bhfn 易拉宝
 bhfp 晚报
 bhfx 甘肅
 bhfx 甘肃
@@ -2543,6 +2544,7 @@ btit 目不识丁
 btiz 題詞
 btiz 题词
 btl 是也乎
+btl (￣▽￣)
 btlb 目不转睛
 btly 旱情
 btlz 眄
@@ -3730,6 +3732,7 @@ cxbi 專職
 cxbt 專題
 cxbu 区县
 cxcx 区区
+cxcx 蝴蝶架
 cxd 專
 cxda 甎
 cxdg 剸
@@ -6536,6 +6539,7 @@ dvfh 海事
 dvfj 冷热病
 dvfm 涂抹
 dvfo 名优特新产品
+dvfp 海报
 dvfx 海拔
 dvfx 冷热
 dvfy 深入持久地开展下去
@@ -7674,6 +7678,7 @@ ehxi 躪
 ehxo 蹃
 ehxs 超載
 ehxs 超载
+ehxx 跪求
 ehxy 走过场
 ehyg 趨勢
 ehyg 跑步
@@ -9278,6 +9283,7 @@ ffmv 把握机会
 ffnk 攮
 ffnn 紥紥實實
 ffnn 扎扎实实
+fnnw 控股
 ffo 捁
 ffo 牿
 ffoa 拍手叫好
@@ -9688,6 +9694,7 @@ fhr 契
 fhra 事務
 fhrd 事态
 fhri 攤
+fhrl 招贴
 fhrl 掭
 fhrv 擹
 fhrx 輻射
@@ -14446,6 +14453,7 @@ gofi 兑换率
 gofi 总书记
 goge 总归
 gogh 总分
+gogk 总监
 gogm 总数
 gogo 总动员
 gogz 总公司
@@ -14800,6 +14808,7 @@ gtr 顺
 gtr 须
 gtra 媭
 gtra 嬃
+gtrh 师太
 gtrj 单身
 gtrl 頾
 gtrn 精神財富
@@ -16470,6 +16479,7 @@ hhuj 一季度
 hhun 万能
 hhuy 荎
 hhv 芡
+hhvb 一但
 hhvc 敬仰
 hhvd 无一例外
 hhvf 一律
@@ -16482,7 +16492,6 @@ hhvh 万余
 hhvi 一條龍
 hhvi 一倍
 hhvi 一个
-ƙ ƙ
 hhvi 万全
 hhvj 驚人
 hhvj 一任
@@ -17453,6 +17462,7 @@ hocp 歡迎
 hocu 互惠
 hodd 够
 hodf 副外長
+hodh 融资
 hodj 互派
 hodk 副外长
 hodr 觀測
@@ -27805,6 +27815,7 @@ khpf 第一階段
 khpf 第一阶段
 khql 奖勤罚懒
 khr 筻
+khrh 并购
 khry 气急败坏
 khs 鵧
 khsa 并要
@@ -28065,6 +28076,7 @@ kjjy 气压
 kjkd 长篇
 kjkg 气氛
 kjkj 首长
+kjkj 道长
 kjkj 气馁
 kjkn 饭馆
 kjkq 奬牌
@@ -36247,10 +36259,12 @@ oio 唔
 oioa 噋
 oiod 噈
 oioh 口吻
+oioi 嘿嘿
 oiok 嚷
 oiom 咳嗽
 oiom 口味
 oion 咬文嚼字
+oioo →_→
 oioo 唾骂
 oioo 嗃
 oioq 嚎
@@ -36440,6 +36454,7 @@ ollb 喈
 ollg 噀
 ollx 哔
 olo 呫
+olol 卟卟
 olr 吳
 ols 啭
 oltr 噸
@@ -36515,6 +36530,7 @@ onut 嚀
 onvx 喀什
 onx 啘
 onxg 嚓
+onxg (# ﾟДﾟ)
 onyo 啁
 ooat 咆哮如雷
 oobg 器具
@@ -36617,6 +36633,7 @@ ooql 鼍
 ooqo 嘼
 ooqq 單獨
 oord 哭
+oord 〒_〒
 ooro 器
 oos 駡
 oos 呺
@@ -36704,7 +36721,8 @@ oqiz 嚃
 oql 呣
 oqms 啄木鸟
 oqn 喟
-oqoo 嗯嗯嗯
+oqoo 눈_눈
+oqoq 嗯嗯嗯
 oqov 咽喉
 oqq 盠
 oqqz 嚺
@@ -36823,6 +36841,7 @@ oti 呷
 oti 嗶
 otiy 吁请
 oto 呵
+otot 呵呵
 oton 叮咛
 otop 叮囑
 otop 叮嘱
@@ -37106,6 +37125,7 @@ oyof 喡
 oyog 嘭
 oyok 唉声叹气
 oyoo 嘻
+oyoy 咔咔
 oyr 嘖
 oyr 嘳
 oyr 啧
@@ -38449,6 +38469,7 @@ psxa 研发
 psxa 展翅
 psxb 民間
 psxg 民办
+psxo 展架
 psxs 展開
 psxx 礟
 psy 陻
@@ -38488,6 +38509,8 @@ ptr 硕
 ptrh 硕大
 ptt 硏
 ptti 避而不谈
+ptvc 码不停提马上无虫
+ptvf 码不停提马上无虫
 ptwy 陷于绝境
 ptx 屚
 ptxb 礵
@@ -39437,6 +39460,7 @@ qmiv 思想工作
 qmkj 因果关系
 qmm 罧
 qmnx 困守
+qmqp 图样图森破
 qmsl 思想感情
 qmso 困惑
 qmvg 困倦
@@ -41393,6 +41417,7 @@ rluv 贴心人
 rlvi 炼焦
 rlvu 大快人心
 rlwf 身怀绝技
+rlwj 贴纸
 rlz 夿
 rlz 貤
 rlz 灺
@@ -46529,6 +46554,7 @@ ugy 鼬
 ugyd 鼭
 ugyg 税款
 ugyi 稍差
+ugyj 翻墙无力症患者
 ugyn 鼱
 ugyy 翻墙
 ugz 鋫
@@ -46967,6 +46993,7 @@ uofi 台中
 uofn 程控
 uog 刣
 uog 积
+uogn 和尚
 uogg 台州
 uogh 积分
 uoh 稏
@@ -47141,6 +47168,7 @@ urnl 参军
 urno 鱊
 urns 参赛
 urps 参展
+urnw 参股
 urq 畚
 urr 貵
 urs 醔
@@ -48143,7 +48171,7 @@ vfdd 傅
 vfdh 年满
 vfed 年岁
 vfeu 伸出
-vffd 伸手派
+vffg 伸手党
 vffh 年輕
 vffh 年事
 vffi 年中
@@ -48511,7 +48539,6 @@ vhdp 仁至义尽
 vhdr 俨然
 vhdr 仍然
 vhdt 僅次于
-vhdx 贪天之功为己有
 vhdx 行为
 vhdy 無法
 vhdy 合法
@@ -55484,6 +55511,8 @@ xoid 胡言
 xoig 加班
 xoig 胡说
 xoih 加工
+xoih 右方 
+xoih →_→
 xoii 故里
 xoij 加工廠
 xoij 加工厂
@@ -57910,6 +57939,7 @@ yrji 義務教育
 yrjj 遗愿
 yrjr 遺失
 yrjr 遗失
+yrkr 喜大普奔
 yrl 埯
 yrla 责怪
 yrls 遺憾
