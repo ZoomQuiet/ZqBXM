@@ -10846,6 +10846,7 @@ flvx 牠們
 flwg 紥
 flwi 指引
 flxa 批发
+flxh 手快有手慢无
 flxi 批发部
 flxk 把関
 flxn 指南
@@ -14697,6 +14698,7 @@ gsih 尖酸刻薄
 gsii 公共设施
 gsij 鄭重
 gsij 尊重
+gsik 公开讨论令众受益
 gsiz 公共交通
 gsjb 顺我者昌
 gsjj 分配制度
@@ -36363,6 +36365,7 @@ ojkv 噘
 ojl 咾
 ojl 吒
 ojl 呃
+ojl 눈_눈
 ojlb 嗜
 ojm 咮
 ojmf 嚤
@@ -36397,6 +36400,7 @@ ojt 听
 ojta 喛
 ojts 听不进
 ojux 呜乎矣哉
+ojux 〒_〒
 ojuy 嚦
 ojvh 听便
 ojvh 听命
@@ -36512,6 +36516,7 @@ onl 咜
 onni 喧闹
 onnv 口蜜腹剑
 ono 喎
+onod 嚓咧
 onoi 喧嚷
 onoo 喧嚣
 onos 呐喊
@@ -36530,7 +36535,7 @@ onut 嚀
 onvx 喀什
 onx 啘
 onxg 嚓
-onxg (# ﾟДﾟ)
+onxg ರ_ರ
 onyo 啁
 ooat 咆哮如雷
 oobg 器具
@@ -36624,6 +36629,8 @@ ooop 鄵
 ooos 哭喊
 ooot 嘽
 ooou 哭叫
+ooox 呜呼唉哉
+ooox /(ㄒoㄒ)/~~
 oop 郘
 ooq 喙
 ooqa 戰略
@@ -36721,8 +36728,10 @@ oqiz 嚃
 oql 呣
 oqms 啄木鸟
 oqn 喟
-oqoo 눈_눈
-oqoq 嗯嗯嗯
+oqoi 嗯啍
+oqoo 嗯嗯嗯
+oqoq 눈_눈
+oqoq 嗯嗯
 oqov 咽喉
 oqq 盠
 oqqz 嚺
@@ -36812,6 +36821,7 @@ osjw 號
 osk 飸
 osm 嘄
 osmv 鸣枪
+osos 呜呜
 osou 喊叫
 osps 號碼
 osps 号码
@@ -37097,6 +37107,7 @@ oya 啛
 oya 唛
 oyd 吖
 oyd 咩
+oyd (๑̀д́๑)
 oydq 嚍
 oygm 吐糟
 oygr 嚬
@@ -44444,6 +44455,8 @@ tho 祒
 tho 袑
 tho 袧
 thog 不只
+thoj 干嘛
+thoj (๑̀д́๑)
 thok 裋
 thoo 不嚴
 thoq 褔
@@ -46180,6 +46193,8 @@ udnh 心胸
 udnj 心脏
 udnj 必胜
 udnn 台湾同胞
+udns 心塞
+udns ರ_ರ
 udnt 心肝
 udnt 必定
 udnv 心腹
@@ -51376,6 +51391,8 @@ vvjz 伤痛
 vvk 作
 vvki 倒行逆施
 vvkj 合作关系
+vvvj 作什么
+vvvj (๑̀д́๑)
 vvkn 從前
 vvkn 从前
 vvkn 从简
@@ -51432,6 +51449,8 @@ vvoo 作品
 vvoo 作戰
 vvor 伤员
 vvor 傷員
+vvoy 作咩
+vvoy (๑̀д́๑)
 vvpc 从属
 vvpn 進行研究
 vvq 侮
@@ -56932,6 +56951,7 @@ yhyh 塔塔尔
 yhyi 土壤
 yhyi 土地证
 yhyi 均由
+yhyk 去列表讨论令众受益
 yhyl 土地
 yhyq 壒
 yhyt 坎坷
