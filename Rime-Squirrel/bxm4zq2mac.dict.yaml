@@ -2293,6 +2293,7 @@ sort: original
 聃	bni
 琞	bnid
 明说	bnig
+明理	bnii
 明珠	bnij
 日用工业品	bnio
 明亮	bnio
@@ -9501,9 +9502,11 @@ sort: original
 輕易	fhbh
 招聘制	fhbj
 拔苗助长	fhbk
+物联	fhbk
 轕	fhbl
 手急眼快	fhbl
 擖	fhbl
+物联网	fhbn
 摸	fhbr
 按劳取酬	fhbs
 招聘	fhby
@@ -12128,6 +12131,7 @@ sort: original
 执行任务	fvva
 提供优质服务	fvva
 先進人物	fvvf
+推介	fvvg
 攕	fvvh
 推倒	fvvh
 推行	fvvh
@@ -12837,6 +12841,7 @@ sort: original
 建厂	fzjh
 书生气	fzjk
 书店	fzjl
+书库	fzjl
 建築物	fzkf
 建筑物	fzkf
 建築	fzki
@@ -15034,6 +15039,7 @@ sort: original
 运往	guvi
 动人	guvj
 公仆	guvl
+公众号	guvo
 順利進行	guvv
 公众	guvv
 动作	guvv
@@ -20921,6 +20927,7 @@ sort: original
 理会	iivg
 祥瑞御免	iivh
 巧言令色	iivh
+站立会议	iivi
 工商行政管理	iivi
 工商行政	iivi
 重點保護	iivi
@@ -21611,6 +21618,7 @@ sort: original
 童年	ikvf
 部件	ikvf
 新年	ikvf
+立会	ikvg
 效益年活动	ikvg
 意会	ikvg
 新余	ikvh
@@ -23710,6 +23718,7 @@ sort: original
 工业生产	ixji
 斎	ixji
 水底	ixjj
+文库	ixjl
 水库	ixjl
 文采	ixjm
 恋爱	ixjn
@@ -30908,6 +30917,7 @@ sort: original
 树敌	majx
 孷	majz
 权益	makg
+极简	makn
 整改	mala
 极点	malo
 整頓	malt
@@ -33213,6 +33223,7 @@ sort: original
 间或	nbso
 寔	nbtv
 悹	nbu
+官微	nbve
 宴会	nbvg
 官倒	nbvh
 宴會	nbvh
@@ -33741,6 +33752,7 @@ sort: original
 冞	ngm
 脒	ngm
 空格	ngma
+究极	ngma
 实权	ngma
 髅	ngma
 完整	ngma
@@ -35654,6 +35666,7 @@ sort: original
 脑力劳动者	nxhj
 膯	nxhk
 艠	nxhk
+闭包	nxhl
 肢解	nxhn
 宏觀	nxho
 膹	nxhr
@@ -42791,6 +42804,7 @@ sort: original
 开创	shvl
 开倒车	shvl
 西化	shvl
+开智	shvr
 专供	shvs
 戒備	shvs
 騊	shvu
@@ -44557,6 +44571,7 @@ sort: original
 干什么	thvj
 干休所	thvj
 不知道	thvk
+干货	thvl
 不得已	thvl
 初创	thvl
 不舒服	thvn
@@ -47716,6 +47731,7 @@ sort: original
 得意	vbik
 复课	vbim
 短期计划	vbis
+每日立会	vbiv
 倡議	vbiy
 复制	vbjf
 得病	vbjh
@@ -48127,6 +48143,7 @@ sort: original
 徽	veja
 微生物	vejf
 促生产	veji
+微店	vejl
 侬	vek
 侵蝕	vekc
 侵蚀	vekc
@@ -48141,6 +48158,7 @@ sort: original
 侵害	venf
 傰	venn
 進出口公司	veoz
+微群	vepo
 侵略	veqa
 懲罰	veqi
 侵略者	veqj
@@ -48155,6 +48173,7 @@ sort: original
 微型机	vesm
 促进会	vesv
 促进	vesz
+微刊	vetg
 偳	vetg
 人山人海	vevd
 催促	veve
@@ -48361,6 +48380,7 @@ sort: original
 含糊其词	vgbi
 会晤	vgbi
 仒	vgd
+仁波切	vgdl
 化公为私	vgdu
 假公济私	vgdu
 仁义	vgdx
@@ -49264,6 +49284,8 @@ sort: original
 行政机关	vimk
 依赖性	viml
 候机室	vimn
+全桟	vims
+全栈	vims
 進來	vimv
 往來	vimv
 停机	vimw
@@ -52073,6 +52095,7 @@ sort: original
 绺	walo
 终点	walo
 绦	wam
+终极	wama
 终审	wanf
 终究	wang
 絡	wao
@@ -58111,6 +58134,7 @@ sort: original
 忐忑不安	yttn
 由下而上	ytty
 由于种种原因	ytuq
+志平仁波切	ytvl
 坏人	ytvj
 壻	ytvn
 上下级之间	ytwn

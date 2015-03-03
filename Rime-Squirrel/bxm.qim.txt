@@ -2289,6 +2289,7 @@ bni 耼
 bni 聃
 bnid 琞
 bnig 明说
+bnii 明理
 bnij 明珠
 bnio 日用工业品
 bnio 明亮
@@ -9497,9 +9498,11 @@ fhba 捞取
 fhbh 輕易
 fhbj 招聘制
 fhbk 拔苗助长
+fhbk 物联
 fhbl 轕
 fhbl 手急眼快
 fhbl 擖
+fhbn 物联网
 fhbr 摸
 fhbs 按劳取酬
 fhby 招聘
@@ -12124,6 +12127,7 @@ fvuw 扣人心弦
 fvva 执行任务
 fvva 提供优质服务
 fvvf 先進人物
+fvvg 推介
 fvvh 攕
 fvvh 推倒
 fvvh 推行
@@ -12833,6 +12837,7 @@ fzjg 建廠
 fzjh 建厂
 fzjk 书生气
 fzjl 书店
+fzjl 书库
 fzkf 建築物
 fzkf 建筑物
 fzki 建築
@@ -15030,6 +15035,7 @@ guvi 云集
 guvi 运往
 guvj 动人
 guvl 公仆
+guvo 公众号
 guvv 順利進行
 guvv 公众
 guvv 动作
@@ -20917,6 +20923,7 @@ iivg 论功行赏
 iivg 理会
 iivh 祥瑞御免
 iivh 巧言令色
+iivi 站立会议
 iivi 工商行政管理
 iivi 工商行政
 iivi 重點保護
@@ -21607,6 +21614,7 @@ ikvd 意念
 ikvf 童年
 ikvf 部件
 ikvf 新年
+ikvg 立会
 ikvg 效益年活动
 ikvg 意会
 ikvh 新余
@@ -23706,6 +23714,7 @@ ixji 工业废水
 ixji 工业生产
 ixji 斎
 ixjj 水底
+ixjl 文库
 ixjl 水库
 ixjm 文采
 ixjn 恋爱
@@ -30904,6 +30913,7 @@ majx 漦
 majx 树敌
 majz 孷
 makg 权益
+makn 极简
 mala 整改
 malo 极点
 malt 整頓
@@ -33209,6 +33219,7 @@ nbsh 同甘共苦
 nbso 间或
 nbtv 寔
 nbu 悹
+nbve 官微
 nbvg 宴会
 nbvh 官倒
 nbvh 宴會
@@ -33737,6 +33748,7 @@ ngm 窠
 ngm 冞
 ngm 脒
 ngma 空格
+ngma 究极
 ngma 实权
 ngma 髅
 ngma 完整
@@ -35650,6 +35662,7 @@ nxhi 闭幕词
 nxhj 脑力劳动者
 nxhk 膯
 nxhk 艠
+nxhl 闭包
 nxhn 肢解
 nxho 宏觀
 nxhr 膹
@@ -42787,6 +42800,7 @@ shvl 开创性
 shvl 开创
 shvl 开倒车
 shvl 西化
+shvr 开智
 shvs 专供
 shvs 戒備
 shvu 騊
@@ -44553,6 +44567,7 @@ thvi 不合理
 thvj 干什么
 thvj 干休所
 thvk 不知道
+thvl 干货
 thvl 不得已
 thvl 初创
 thvn 不舒服
@@ -47712,6 +47727,7 @@ vbig 复交
 vbik 得意
 vbim 复课
 vbis 短期计划
+vbiv 每日立会
 vbiy 倡議
 vbjf 复制
 vbjh 得病
@@ -48123,6 +48139,7 @@ veja 幑
 veja 徽
 vejf 微生物
 veji 促生产
+vejl 微店
 vek 侬
 vekc 侵蝕
 vekc 侵蚀
@@ -48137,6 +48154,7 @@ vena 侵
 venf 侵害
 venn 傰
 veoz 進出口公司
+vepo 微群
 veqa 侵略
 veqi 懲罰
 veqj 侵略者
@@ -48151,6 +48169,7 @@ vesj 促成
 vesm 微型机
 vesv 促进会
 vesz 促进
+vetg 微刊
 vetg 偳
 vevd 人山人海
 veve 催促
@@ -48357,6 +48376,7 @@ vgbh 份量
 vgbi 含糊其词
 vgbi 会晤
 vgd 仒
+vgdl 仁波切
 vgdu 化公为私
 vgdu 假公济私
 vgdx 仁义
@@ -49260,6 +49280,8 @@ vimi 全校
 vimk 行政机关
 viml 依赖性
 vimn 候机室
+vims 全桟
+vims 全栈
 vimv 進來
 vimv 往來
 vimw 停机
@@ -52069,6 +52091,7 @@ walo 綹
 walo 绺
 walo 终点
 wam 绦
+wama 终极
 wanf 终审
 wang 终究
 wao 絡
@@ -58107,6 +58130,7 @@ ytti 填平补齐
 yttn 忐忑不安
 ytty 由下而上
 ytuq 由于种种原因
+ytvl 志平仁波切
 ytvj 坏人
 ytvn 壻
 ytwn 上下级之间
