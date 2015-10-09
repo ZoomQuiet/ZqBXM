@@ -1,0 +1,14 @@
+WINDFT/
+.ropeproject
+.svn
+.DS_Store
+*.dump
+*.pyc
+*.db
+*.log
+*.wsgic
+_chaos
+media
+site-packages
+logs
+xsettings.py

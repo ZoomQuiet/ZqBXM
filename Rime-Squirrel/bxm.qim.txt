@@ -3894,6 +3894,7 @@ dapb 洛陽
 dapb 洛阳
 dard 浩如烟海
 datt 泪如雨下
+dave 泽徽
 davi 滩
 daz 錃
 daz 波
@@ -6427,6 +6428,7 @@ dudp 渗漏
 duei 治山
 durz 潘达
 duf 洠
+dufd 潘建波
 dufo 淫秽物品
 dug 浰
 duga 浚
@@ -10580,6 +10582,7 @@ fjvi 扼住
 fjvi 據估計
 fjvj 托人
 fjvj 插入
+fjvl 振华
 fjvm 手術
 fjvo 控制人口
 fjvs 拆借
@@ -15381,6 +15384,7 @@ hbim 更是这样
 hbis 蘵
 hbiv 节目主持人
 hbiw 草率
+hbjd 莫广
 hbjh 幕后
 hbji 一日千里
 hbjj 草原
@@ -25172,6 +25176,7 @@ jhfg 遮挡
 jhfg 遮擋
 jhfh 后事
 jhfi 后撤
+jhfj 后援
 jhfr 遮掩
 jhfu 后患
 jhg 虝
@@ -25716,6 +25721,7 @@ jldb 自以为是
 jldl 老外
 jldm 老资格
 jldp 库房
+jldu 老潘
 jlei 爬山
 jlek 老农
 jlfd 庇护
@@ -26092,6 +26098,7 @@ jous 厉兵秣马
 jpay 癃
 jpbe 自即日起
 jpda 廄
+jpdv 邝泽徽
 jpdv 亂砍濫伐
 jpdv 乱砍滥伐
 jpdw 厩
@@ -36245,6 +36252,7 @@ oiia 口译
 oiib 呈現
 oiii 口语
 oiik 口音
+ioio 啍啍
 oiir 口诀
 oiis 口试
 oiiu 唾弃
@@ -36741,7 +36749,7 @@ oqiz 嚃
 oql 呣
 oqms 啄木鸟
 oqn 喟
-oqoi 嗯啍
+oqoi 嗯哼
 oqoo 嗯嗯嗯
 oqoq 눈_눈
 oqoq 嗯嗯
@@ -37601,6 +37609,7 @@ phnt 确定
 phoe 石嘴山
 phoi 礶
 phoy 隔
+phpo 隔壁
 phpp 硬碰硬
 phps 陷阱
 phpv 卫队
@@ -39045,6 +39054,7 @@ qdss 逐渐形成
 qdt 犿
 qdti 置之不理
 qduq 因为种种原因
+qdvd 罗佐之
 qdvx 独资企业
 qdwm 圓滿結束
 qdwm 圆满结束
@@ -40700,6 +40710,7 @@ reek 熤
 rei 灿
 reid 燖
 reim 中州韻
+rein 熠瑄
 reix 煤炭工业
 rejt 泰山压顶
 remf 奔走相告
@@ -45887,6 +45898,7 @@ tyok 褤
 tyoo 禧
 tyor 襭
 tyor 社员
+typo 社群
 tyqc 社團
 tyqr 襩
 tyqx 社团
@@ -48140,6 +48152,7 @@ veja 徽
 vejf 微生物
 veji 促生产
 vejl 微店
+veha 徽
 vek 侬
 vekc 侵蝕
 vekc 侵蚀
@@ -48183,7 +48196,9 @@ vevl 催化
 vevo 儶
 vevr 促使
 vevv 促進會
+vevz 徽仔
 vevz 侺
+vewa 徽
 vewd 微弱
 vewi 侵袭
 vewx 微风
@@ -51692,6 +51707,7 @@ vxdo 人在江湖身不由己哪
 vxdu 怤
 vxdy 付清
 vxdy 做法
+vxdz 佐之
 vxe 佈
 vxep 付印
 vxeu 付出
@@ -53330,7 +53346,6 @@ wnfo 縖
 wngg 綜
 wngg 综
 wngi 縮小
-wngi 缩小
 wngo 綗
 wngw 綄
 wnh 纻
@@ -53361,6 +53376,8 @@ wnnu 纳闷
 wno 絅
 wno 緺
 wnog 缤
+wnqa 缩略
+wnqq 缩略图
 wnry 總體規劃
 wnsa 綱要
 wnsa 纲要
