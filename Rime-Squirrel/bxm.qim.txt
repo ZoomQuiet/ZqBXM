@@ -2386,6 +2386,7 @@ bpga 暇
 bpgh 眼光
 bpgt 邯郸
 bpgv 基层单位
+bpgv 眼动仪
 bphl 眼色
 bpic 矚
 bpic 曯
@@ -8367,7 +8368,8 @@ esh 践
 eshw 峣
 eshw 跷
 esi 跩
-esiz 越野
+esi 跩
+ehie 超市
 esj 峩
 esj 嵨
 esj 嶋
@@ -8851,6 +8853,7 @@ faj 扱
 faj 牧
 faki 事务管理
 fakq 摊牌
+fal 妻
 falb 揝
 falo 摊点
 fao 輅
@@ -8873,6 +8876,7 @@ fayw 牧场
 faz 叏
 faz 叓
 faz 披
+yazz 妻子
 fazz 摊子
 fba 輙
 fba 掫
@@ -12547,6 +12551,7 @@ fxpt 隶属于
 fxpv 排队
 fxpv 排除
 fxpv 拔除
+fxqr 技因
 fxr 拻
 fxr 贽
 fxrd 挑大梁
@@ -31608,6 +31613,7 @@ mhqd 櫗
 mhqh 橿
 mhqi 本国
 mhqq 橡
+mhqr 模因
 mhqs 本國
 mhqu 构思
 mhr 楧
@@ -49647,6 +49653,7 @@ vjek 入帐
 vjey 入出境
 vjf 傭
 vjfa 人事处
+vjfa 人妻
 vjff 年度报告
 vjfg 人生哲学
 vjfh 傻事
@@ -53067,6 +53074,7 @@ wjiv 總産值
 wjiv 總工會
 wjiv 乡亲们
 wjiv 绪论
+wjiw 几率
 wjix 總計
 wjiy 纏
 wjiy 纒
