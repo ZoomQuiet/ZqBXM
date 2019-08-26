@@ -281,6 +281,7 @@ sort: original
 欢庆	ahjr
 欢欣	ahjt
 欢笑	ahkj
+瓦片	ahkj
 欢送	ahkr
 皰	ahl
 瓦	ahl
@@ -315,6 +316,7 @@ sort: original
 欢	ahv
 嬳	ahva
 婲	ahvl
+瓦舍	ahvt
 艰苦创业	ahvx
 如花似锦	ahvz
 奶	ahw
@@ -2202,13 +2204,13 @@ sort: original
 基本建设	bmfi
 睐	bmg
 时来运转	bmgl
-昩	bmh
-眛	bmh
-眜	bmh
+昧	bmh
 暕	bmh
 某	bmh
 杲	bmh
-昧	bmh
+昩	bmh
+眛	bmh
+眜	bmh
 基本解决	bmhd
 职权范围	bmhq
 基本工资	bmid
@@ -2235,6 +2237,8 @@ sort: original
 基本國策	bmqk
 基本国策	bmqk
 基本思想	bmqm
+昧因	bmqr
+昧因®	bmqr
 基本矛盾	bmrj
 基本規律	bmrv
 基本规律	bmrv
@@ -2446,6 +2450,8 @@ sort: original
 睤	bqk
 睏	bqm
 星罗棋布	bqmx
+昧因科技	bquf
+昧因科技®	bquf
 曪	bqwi
 聛	bqx
 睥	bqx
@@ -3191,6 +3197,7 @@ sort: original
 巨幅	cheh
 蟎	chev
 緊急措施	chfi
+蠎中国	chfq
 蠨	chfx
 蟏	chfx
 匢	chg
@@ -3202,7 +3209,8 @@ sort: original
 巨头	chgr
 巨著	chhj
 蠂	chhm
-蠎营	chhn
+蟒营™	chhn
+蟒营	chhn
 臣	chi
 留言	chid
 留意	chik
@@ -3252,9 +3260,9 @@ sort: original
 蝜	chr
 蝧	chr
 贸	chr
+蟒	chrh
 蠎	chrh
 巨大	chrh
-蟒	chrh
 鄮	chrp
 欧亚大陆	chrp
 巨型	chsg
@@ -13192,6 +13200,7 @@ sort: original
 八小时工作制	ggbj
 头头是道	ggbk
 光临惠顾	ggcj
+哥哥	gg
 尛	ggg
 州	ggg
 祘	gggg
@@ -14314,6 +14323,7 @@ sort: original
 学术性	gnml
 学术界	gnmq
 公安機関	gnmx
+公安	gnna
 黨内外	gnnd
 党内外	gnnd
 常用	gnnf
@@ -17542,6 +17552,7 @@ sort: original
 歡慶	hojs
 逼近	hojt
 斪	hojt
+豆腐	hojv
 豆	hok
 武器装备	hoka
 豉	hoka
@@ -19229,6 +19240,7 @@ sort: original
 政权	iama
 译本	iamh
 政權	iamh
+主妇模式	iams
 政客	iana
 政审	ianf
 政審	ianu
@@ -19394,6 +19406,8 @@ sort: original
 工贸结合	icwv
 讴	icx
 瑼	icxd
+主妇	idae
+主妇流	idad
 主观性	idal
 主观	idaw
 黚	idb
@@ -26935,7 +26949,9 @@ sort: original
 废料	jxgm
 谸	jxgo
 甜头	jxgr
+舌尖	jxgr
 乱动	jxgu
+舌尖体	jxgv
 所在单位	jxgv
 虛	jxh
 千	jxh
@@ -34642,6 +34658,7 @@ sort: original
 军装	nlky
 肶	nll
 舭	nll
+甩	nll
 军车	nllh
 军乐	nllj
 膬	nlll
@@ -34684,7 +34701,9 @@ sort: original
 密切配合	nlsv
 脱穎而出	nlte
 脱颖而出	nlte
+甩干	nlth
 军礼	nltl
+甩干机	nltm
 军歌	nlto
 军需	nltx
 军委	nlua
@@ -34713,6 +34732,7 @@ sort: original
 迱	nlz
 肥	nlz
 囘	nlz
+甩锅	nlzo
 闲聊	nmbc
 闲暇	nmbp
 寒来暑往	nmbv
@@ -35783,7 +35803,7 @@ sort: original
 週期	nybg
 周期	nybg
 周期性	nybl
-周蠎	nych
+周蟒	nych
 周边	nyxz
 羘	nyd
 脚注	nydi
@@ -40911,6 +40931,7 @@ sort: original
 大牲畜	rhfi
 大抓	rhfj
 大批	rhfl
+夸赞术	rhfm
 大中型	rhfs
 炮擊	rhfu
 炮击	rhfu
@@ -43842,6 +43863,7 @@ sort: original
 进修班	szvi
 进入	szvj
 进货	szvl
+进化	szvl
 进行曲	szvs
 廼	szw
 进发	szxa
@@ -46974,6 +46996,9 @@ sort: original
 和盘托出	unfe
 能手	unfj
 稳定物价	unfv
+能技之	unfd
+能技之夸赞术	unfm
+能技	unfx
 鯮	ungg
 能动性	ungl
 穃	ungo
@@ -47100,6 +47125,11 @@ sort: original
 和稀泥	uoud
 鰐魚	uouj
 鳄鱼	uouj
+和合技	uovf
+和合	uovh
+和合版	uovk
+和合本	uovm
+和合体	uovv
 和约	uowh
 和緩	uowj
 和缓	uowj
@@ -50017,7 +50047,7 @@ sort: original
 创始人	vlav
 领导职务	vlba
 倬	vlbx
-华蠎	vlch
+华蟒	vlch
 创汇	vldc
 舍己为公	vldg
 倾注	vldi
@@ -50578,9 +50608,11 @@ sort: original
 全民所有	vpjx
 很	vpk
 佷	vpk
+假仙	vpke
 偋	vpkh
 人际关系	vpkj
 很长	vpkj
+假装	vpky
 伲	vpl
 很慢	vplb
 很快	vplr
@@ -50859,6 +50891,7 @@ sort: original
 使馆	vrkn
 俺	vrl
 短暂	vrlj
+知情咒	volo
 知情人	vrlv
 知情	vrly
 知己	vrlz
@@ -51142,6 +51175,7 @@ sort: original
 供销社	vszt
 传承	vszx
 袋子	vszz
+舍瓦	vtah
 何处	vtal
 佰	vtb
 何其	vtbg
@@ -51635,6 +51669,7 @@ sort: original
 优选	vwfw
 优先	vwfw
 优势	vwfx
+佩哥哥	vwgg
 优劣	vwgj
 年终总结	vwgw
 传统节日	vwhb
@@ -51674,6 +51709,7 @@ sort: original
 优雅	vwri
 伤风败俗	vwrv
 佩	vwt
+佩哥哥	vwtt
 优于	vwth
 後面	vwtq
 优秀	vwuh
@@ -51690,6 +51726,7 @@ sort: original
 年終總結	vwww
 传统友谊	vwxi
 傳統友誼	vwxi
+佩戴	vwxs
 优美	vwyr
 传统美德	vwyv
 伖	vxa

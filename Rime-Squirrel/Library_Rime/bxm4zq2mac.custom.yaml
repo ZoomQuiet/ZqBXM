@@ -3,5 +3,5 @@
 # encoding: utf-8
 
 patch:
-  punctuator/import_preset: alternative     # E文标点
   translator/enable_user_dict: false        # 關閉用戶詞典和字頻調整
+  punctuator/import_preset: alternative     # E文标点

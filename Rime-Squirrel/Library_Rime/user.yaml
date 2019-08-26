@@ -1,0 +1,11 @@
+var:
+  option:
+    ascii_punct: true
+    full_shape: false
+    simplification: true
+  previously_selected_schema: bxm4zq2mac
+  schema_access_time:
+    bxm4zq2mac: 1548843880
+    luna_pinyin: 1485326618
+    luna_pinyin_simp: 1485326711
+    pinyin_simp: 1548843873

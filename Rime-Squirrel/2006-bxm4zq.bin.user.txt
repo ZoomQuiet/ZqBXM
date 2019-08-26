@@ -47,7 +47,7 @@ exlr	赵东炜	0
 fbsq	按照要求回复看图	0
 fexu	摧悲	0
 fhwj	事儿	0
-fich	中蠎	0
+fich	中蟒	0
 fikm	中关村	0
 fjad	牛叉	0
 fjaz	牛妞	0
@@ -218,7 +218,7 @@ nvnx	官网	0
 nvtx	冗余不做日子甭过	0
 nvvj	内什么	0
 nxng	骷髅	0
-nych	周蠎	0
+nych	周蟒	0
 nynj	周宣辰	0
 nyvr	周知	0
 nzfi	字串	0
