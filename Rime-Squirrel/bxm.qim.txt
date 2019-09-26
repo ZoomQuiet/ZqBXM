@@ -2233,8 +2233,8 @@ bmnu 照本宣科
 bmqk 基本國策
 bmqk 基本国策
 bmqm 基本思想
+bmqr 昩因®
 bmqr 昧因
-bmqr 昧因®
 bmrj 基本矛盾
 bmrv 基本規律
 bmrv 基本规律
@@ -13001,6 +13001,7 @@ gbvx 临时代办
 gbvy 分期付款
 gbw 覍
 gbwt 精明强干
+gbxr 三昧真火
 gbxr 兴旺发达
 gdbx 分清是非
 gdfs 临渴掘井
@@ -13240,6 +13241,7 @@ ghbh 光照
 ghbi 兴旺
 ghbi 举目
 ghbi 光景
+ghbm 三昧
 ghbn 分明
 ghbn 光明
 ghbn 三明
