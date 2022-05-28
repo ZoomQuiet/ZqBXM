@@ -10,7 +10,7 @@ import sys
 VER = "fix2Squirrel4BXM {v13.3.26}"
 
 def reformat(qimf):
-    print qimf
+    print(qimf)
     totlel = 0
     exp = "# Rime dictionary\n"
     exp += "# encoding: utf-8\n\n"
@@ -24,21 +24,21 @@ def reformat(qimf):
     for l in open(qimf):
         totlel += 1
         if "#" in l:
-            print l[:-1]
+            print(l[:-1])
         else:
             d = l.split()
             #print d
             exp += "%s\t%s\n"%(d[1], d[0])
 
-    print "\t 共处理:%d 行" % totlel
-    print ">>>输出为: bxm4zq2mac.dict.yaml"
+    print("\t 共处理:%d 行" % totlel)
+    print(">>>输出为: bxm4zq2mac.dict.yaml")
     open("bxm4zq2mac.dict.yaml", 'w').write(exp)
 
 if __name__ == '__main__':      # this way the module can be
     if 2 != len(sys.argv):
-        print """ %s usage::
-fix2Squirrel4BXM.py path/2/qim.txt
-        """ % VER
+        print(""" %s usage::
+        fix2Squirrel4BXM.py path/2/qim.txt
+                """ % VER)
     else:
         QIM = sys.argv[1]
         reformat(QIM)
