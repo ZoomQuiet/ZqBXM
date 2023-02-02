@@ -83,9 +83,7 @@ punctuator:
 key_binder:
   import_preset: default
   bindings:
-    - { when: always, accept: Shift+space,      toggle: ascii_mode}
-    - { when: always, accept: Control+Shift+2,  toggle: ascii_mode }
-    - { when: always, accept: Control+period,   toggle: ascii_punct}
+    - { when: always, accept: Escape,   toggle: full_shape}
 
 recognizer:
   import_preset: default
