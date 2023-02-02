@@ -1,5 +1,4 @@
-表形码 在 鼠须管|Squirrel
-====================================
+## 表形码 在 鼠须管|Squirrel
 
 [表形码](http://zh.wikipedia.org/wiki/%E8%A1%A8%E5%BD%A2%E7%A0%81)
 一款异常优秀的输入法！
@@ -13,8 +12,7 @@
 - 终于,有 ifanr 好友推荐: [鼠须管，“神级”输入法](http://www.ifanr.com/156409)
     - 终于忍受 QIM 不能,用一晩迁移了过来...
 
-参考
-------------------
+### 参考
 
 佛振先生的大作: [rimeime - 中州韻輸入法引擎 | Rime Input Method Engine - Google Project Hosting](http://code.google.com/p/rimeime/)
 
@@ -34,8 +32,7 @@
 表形码自学资料下载: [BXM-新编电脑打字七日通(全民版)](https://github.com/ZoomQuiet/ZqBXM/raw/master/BXM_%E6%89%93%E5%AD%97%E4%B8%83%E6%97%A5%E9%80%9A_%E5%85%A8%E6%B0%91%E7%89%88.pdf)
 
 
-自制
-------------------
+## 自制
 
 当前方案相关文档说明 ./ 
 
@@ -82,8 +79,7 @@
 
 
 
-增补
-------------------
+## 增补
 
 鼠须管目前没有提供 SCIM 那样随时抓字为用户词典的功能,
 所以,一但发觉有新近的常用词后,只能手工增补到方案字典中,可以如下处置:
@@ -107,5 +103,18 @@
 
 
 - 最后将增补成功的 `bxm4zq2mac.dict.txt` 复制到 `~/Library/Rime/` 重新部属生成新的相关数据就好!
+
+
+### 230202
+> 升级 0.16.* 后的调整
+
+参考: [ macOS 13.1 中的 0.16.1 无法简单切换到半角英文 · Issue #709 · rime/squirrel](https://github.com/ZoomQuiet)
+
+
+最后发现使用 `Escape` 才能恢复原先将中/英切换,和全/半角 切换都能控制的状态;
+
+
+
+
 
 
