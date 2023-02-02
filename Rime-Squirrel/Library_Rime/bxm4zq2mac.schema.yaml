@@ -1,11 +1,34 @@
-abc_segmentor:
-  extra_tags:
-    - reverse_lookup
+# Rime schema
+# encoding: utf-8
+
+schema:
+  author:
+    - "發明人 陈爱文先生"
+    - "定制者 Zoom.Quiet <zoomquiet+bxm@gmail.com>"
+  dependencies:
+    - luna_pinyin_simp
+  description: |
+    旅居法國的華僑人士陳愛文於80年代發明的杰出形码;
+    后因陷入法律纠纷,在市场化方面败于五笔...
+    zh.wikipedia.org/zh-hk/表形碼
+  name: "表形码2006版ZQ定制版"
+  schema_id: bxm4zq2mac
+  version: 13.3.26.custom.1825395673
+
 customization: 1825395673
+
+switches:
+  - name: ascii_mode
+    reset: 0
+    states: ["中文", "西文"]
+  - name: full_shape
+    states: ["半角", "全角"]
+  - name: simplification
+    states: ["漢字", "汉字"]
+  - name: extended_charset
+    states: ["通用", "增廣"]
+
 engine:
-  filters:
-    - simplifier
-    - uniquifier
   processors:
     - ascii_composer
     - recognizer
@@ -25,49 +48,15 @@ engine:
     - punct_translator
     - reverse_lookup_translator
     - table_translator
-key_binder:
-  import_preset: default
-punctuator:
-  import_preset: alternative
-recognizer:
-  import_preset: default
-  patterns:
-    reverse_lookup: "`[a-z]*'?$"
-reverse_lookup:
-  dictionary: pinyin_simp
-  preedit_format:
-    - "xform/([nljqxy])v/$1ü/"
-  prefix: "`"
-  suffix: "'"
-  tips: "〔拼音〕"
-schema:
-  author:
-    - "發明人 陈爱文先生"
-    - "定制者 Zoom.Quiet <zoomquiet+bxm@gmail.com>"
-  dependencies:
-    - luna_pinyin_simp
-  description: |
-    旅居法國的華僑人士陳愛文於80年代發明的杰出形码;
-    后因陷入法律纠纷,在市场化方面败于五笔...
-    zh.wikipedia.org/zh-hk/表形碼
+  filters:
+    - simplifier
+    - uniquifier
 
-  name: "表形码2006版ZQ定制版"
-  schema_id: bxm4zq2mac
-  version: 13.3.26.custom.1825395673
 speller:
   alphabet: zyxwvutsrqponmlkjihgfedcba
   delimiter: " ;'"
   max_code_length: 4
-switches:
-  - name: ascii_mode
-    reset: 0
-    states: ["中文", "西文"]
-  - name: full_shape
-    states: ["半角", "全角"]
-  - name: simplification
-    states: ["漢字", "汉字"]
-  - name: extended_charset
-    states: ["通用", "增廣"]
+
 translator:
   dictionary: bxm4zq2mac
   disable_user_dict_for_patterns:
@@ -75,3 +64,31 @@ translator:
     - "^yyy.*$"
   enable_charset_filter: true
   enable_user_dict: false
+
+abc_segmentor:
+  extra_tags:
+    - reverse_lookup
+
+reverse_lookup:
+  dictionary: pinyin_simp
+  preedit_format:
+    - "xform/([nljqxy])v/$1ü/"
+  prefix: "`"
+  suffix: "'"
+  tips: "〔拼音〕"
+
+punctuator:
+  import_preset: alternative
+
+key_binder:
+  import_preset: default
+  bindings:
+    - { when: always, accept: Shift+space,      toggle: ascii_mode}
+    - { when: always, accept: Control+Shift+2,  toggle: ascii_mode }
+    - { when: always, accept: Control+period,   toggle: ascii_punct}
+
+recognizer:
+  import_preset: default
+  patterns:
+    reverse_lookup: "`[a-z]*'?$"
+
