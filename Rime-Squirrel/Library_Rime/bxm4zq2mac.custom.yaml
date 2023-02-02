@@ -5,3 +5,4 @@
 patch:
   translator/enable_user_dict: false        # 關閉用戶詞典和字頻調整
   punctuator/import_preset: alternative     # E文标点
+

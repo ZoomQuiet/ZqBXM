@@ -1,7 +1,7 @@
 abc_segmentor:
   extra_tags:
     - reverse_lookup
-customization: 2397138135
+customization: 1825395673
 engine:
   filters:
     - simplifier
@@ -34,7 +34,7 @@ recognizer:
   patterns:
     reverse_lookup: "`[a-z]*'?$"
 reverse_lookup:
-  dictionary: luna_pinyin
+  dictionary: pinyin_simp
   preedit_format:
     - "xform/([nljqxy])v/$1ü/"
   prefix: "`"
@@ -46,10 +46,14 @@ schema:
     - "定制者 Zoom.Quiet <zoomquiet+bxm@gmail.com>"
   dependencies:
     - luna_pinyin_simp
-  description: "旅居法國的華僑人士陳愛文於80年代發明的杰出形码;\x0a后因陷入法律纠纷,在市场化方面败于五笔...\x0azh.wikipedia.org/zh-hk/表形碼\x0a"
-  name: "表形码ZQ私用版"
+  description: |
+    旅居法國的華僑人士陳愛文於80年代發明的杰出形码;
+    后因陷入法律纠纷,在市场化方面败于五笔...
+    zh.wikipedia.org/zh-hk/表形碼
+
+  name: "表形码2006版ZQ定制版"
   schema_id: bxm4zq2mac
-  version: 13.3.26.custom.2397138135
+  version: 13.3.26.custom.1825395673
 speller:
   alphabet: zyxwvutsrqponmlkjihgfedcba
   delimiter: " ;'"
@@ -57,21 +61,13 @@ speller:
 switches:
   - name: ascii_mode
     reset: 0
-    states:
-      - "中文"
-      - "西文"
+    states: ["中文", "西文"]
   - name: full_shape
-    states:
-      - "半角"
-      - "全角"
+    states: ["半角", "全角"]
   - name: simplification
-    states:
-      - "漢字"
-      - "汉字"
+    states: ["漢字", "汉字"]
   - name: extended_charset
-    states:
-      - "通用"
-      - "增廣"
+    states: ["通用", "增廣"]
 translator:
   dictionary: bxm4zq2mac
   disable_user_dict_for_patterns:
