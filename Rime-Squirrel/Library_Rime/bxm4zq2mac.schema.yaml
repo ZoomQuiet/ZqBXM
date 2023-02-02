@@ -83,7 +83,15 @@ punctuator:
 key_binder:
   import_preset: default
   bindings:
-    - { when: always, accept: Escape,   toggle: full_shape}
+    # hotkey switch
+    #　ascii_punct　切换半／全角标点
+    #　full_shape　切换半／全角字符
+    #　ascii_mode　切换中／英输入
+    #- { when: always, accept: Escape,   toggle: full_shape}
+    #- { when: always, accept: Escape,   toggle: ascii_punct}
+    - { when: always, accept: Shift+space, toggle: full_shape }
+    #- { when: always, accept: Command+space, toggle: ascii_mode }
+    #- { when: always, accept: Control+period, toggle: ascii_punct }
 
 recognizer:
   import_preset: default
