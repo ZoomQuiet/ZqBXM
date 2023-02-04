@@ -1507,6 +1507,7 @@ bgg 眎
 bgg 剘
 bggh 其二
 bggm 基数
+bggm 基类
 bggr 盼头
 bggu 晃动
 bgh 昐
@@ -2890,6 +2891,7 @@ bxrf 显身手
 bxsa 显要
 bxsj 鼎盛
 bxsj 助威
+bxsi 显式
 bxso 睵
 bxsx 是非曲直
 bxtd 量力而为
@@ -20297,11 +20299,11 @@ ihdu 工艺流程
 ihdx 旅游業
 ihdx 旅游业
 ihdx 正义
+ihdy 方法
+ihdy 弄清
+ihdy 正法
 ihdy 認清
 ihdy 譅
-ihdy 弄清
-ihdy 方法
-ihdy 正法
 ihe 诌
 ihea 正路
 ihee 謅
@@ -24630,6 +24632,7 @@ jbms 鷍
 jbms 质量检验
 jbmv 歸來
 jbna 嬮
+jbnd 自定义
 jbnd 黶
 jbnd 厭
 jbnf 擪
@@ -26360,10 +26363,10 @@ jrpv 广大群众
 jrr 賡
 jrr 痰
 jrr 赓
+jrra 失败
+jrra 失敗
 jrra 廮
 jrra 癭
-jrra 失敗
-jrra 失败
 jrra 瘿
 jrrd 失火
 jrrj 失败者
