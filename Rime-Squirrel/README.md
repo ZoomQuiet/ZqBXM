@@ -114,7 +114,19 @@
 最后发现使用 `Escape` 才能恢复原先将中/英切换,和全/半角 切换都能控制的状态;
 
 
+后续发现配置很容量相互混合：
 
+- [无法覆盖默认快捷键 · Issue \#718 · rime/squirrel](https://github.com/rime/squirrel/issues/718#issuecomment-1416899080)
+- 也就是说在 `<用戶文件夾>/build/*.schema.yaml` 编译成果目录中进行最终检验
+
+
+
+### 230206 
+> 发现Gitter讨论中有另外的思路:
+
+更新后，中英文切换不行了。。 
+
+突然發現一個更簡單有效的方案，不過是更改 macOS 本身的設置，現在打字體驗能跟之前保持一致了⋯⋯ 因為 MacBook 沒有 Right Contorl 鍵，所以我把 `default.custom.yaml` 中的 switch_key 的 Control_R 更改為了『拼音上屏並切換/commit_code』： ``` switch_key: Shift_L: noop Shift_R: commit_code Control_L: noop Control_R: commit_code Caps_Lock: commit_text Eisu_toggle: clear ``` 然后将 Caps Lock 的 Modifier Keys 更改為了 control。之後就只會在 Squirrel 內部切換中/西文輸入模式了。代價是大寫鎖定功能被禁止了，不過我本來也從來不用這個功能，所以對我來說無所謂。而且因為 macOS 沒有 Right Contorl 鍵，所以不會影響到鍵盤上原本的 Contorl 鍵(Left Control)，只有 Caps Lock 會切換輸入模式。測了一下，暫時還沒發現什麼按鍵衝突之類的問題⋯⋯缺點是如果想在別的系統原生輸入法中進行切換，只能用 Caps Lock + Space / Control + Space 的組合了，比原本的 Caps Lock 麻煩了一點。
 
 
 
