@@ -5938,6 +5938,7 @@ dpjb 潳
 dpjo 扄
 dpjr 肇庆
 dpjr 為群衆服務
+dpjx 遍历
 dpk 泿
 dpk 良
 dpkd 泥浆
