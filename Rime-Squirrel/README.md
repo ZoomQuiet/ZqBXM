@@ -108,7 +108,7 @@
 ### 230202
 > 升级 0.16.* 后的调整
 
-参考: [ macOS 13.1 中的 0.16.1 无法简单切换到半角英文 · Issue #709 · rime/squirrel](https://github.com/ZoomQuiet)
+参考: [ macOS 13.1 中的 0.16.1 无法简单切换到半角英文 · Issue #709 · rime/squirrel](https://github.com/rime/squirrel/issues/709)
 
 
 最后发现使用 `Escape` 才能恢复原先将中/英切换,和全/半角 切换都能控制的状态;
