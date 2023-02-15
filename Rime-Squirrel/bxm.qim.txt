@@ -1057,6 +1057,7 @@ axin 媠
 axin 对调
 axio 嫻熟
 axit 对立面
+axix 对齐
 axiy 务请
 axj 姚
 axjb 姑息
@@ -1252,6 +1253,7 @@ babv 联欢晚会
 bad 焣
 badg 取消
 bado 取名
+badr 取决
 badt 取之于
 badt 取决于
 baeh 取走
@@ -5203,8 +5205,10 @@ djkd 激将法
 djks 濂
 djks 濓
 djl 汑
+djlg 浮点数
 djlj 活性
 djlk 法制轨道
+djlo 浮点
 djlo 激战
 djlv 渡轮
 djlx 激愤
@@ -10363,9 +10367,10 @@ fjgr 手头
 fjgr 插头
 fjgt 誓师
 fjgu 摇动
-fjgu 掀动
-fjgu 托运
+fjgu 手动
 fjgu 振动
+fjgu 托运
+fjgu 掀动
 fjgx 軤
 fjh 抍
 fjh 牛
@@ -14782,6 +14787,7 @@ gtfp 单据
 gtft 单打
 gtfw 顺畅
 gtfx 顺势
+gtge 递归
 gtge 顺当
 gtgt 弟弟
 gtgw 单元
@@ -16900,6 +16906,7 @@ hjs 芪
 hjsd 薦
 hjsd 茋
 hjsi 蔴醉
+hjsj 菜鸟
 hjss 荣辱与共
 hjt 芹
 hjta 萲
@@ -17343,10 +17350,12 @@ hnjh 带病
 hnji 再教育
 hnji 再生産
 hnji 再生产
+hnjl 解包
 hnjn 蒙受
 hnjv 荣膺
-hnjy 营生
+hnjy 解压
 hnjy 再生
+hnjy 营生
 hnjz 劳教
 hnkj 营长
 hnkj 再版
@@ -23634,6 +23643,7 @@ ixgg 剂
 ixgh 計分
 ixgh 水分
 ixgh 计分
+ixgm 计数
 ixgm 这类
 ixgm 球迷
 ixgm 球类
@@ -31598,6 +31608,7 @@ mhmk 栅栏
 mhmp 梗概
 mhmv 未來
 mhmv 本來
+mhmw 本机
 mhmx 木材
 mhmy 模樣
 mhmy 模样
@@ -37676,6 +37687,7 @@ phug 剭
 phuu 隐私
 phuy 屋
 phv 砍
+phvd 隐含
 phvf 硬件
 phvg 陋俗
 phvi 确信
@@ -44324,6 +44336,7 @@ thgh 初三
 thgi 福州市
 thgi 不动产
 thgj 不少
+thgj 初学者
 thgm 不断
 thgm 不料
 thgm 干粮
@@ -51534,6 +51547,7 @@ vvnq 作家
 vvnr 售後服務
 vvns 御寒
 vvnt 作用于
+vvny 作用域
 vvog 任人唯贤
 vvoi 伤口
 vvoi 任人唯亲
@@ -53831,6 +53845,7 @@ wviw 强化训练
 wvja 强人所难
 wvjf 繪製
 wvjf 绘制
+wvjh 维度
 wvjn 綜合考察
 wvjn 縱向
 wvjn 综合考察

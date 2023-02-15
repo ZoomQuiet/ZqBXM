@@ -90,7 +90,7 @@
 
 - 然后调用转换脚本 ::
 
-        $ python fix2Squirrel4BXM.py bxm.qim.txt
+        $ python fix2Squirrel4BXM.py bxm.qim.tx３t
         bxm.qim.txt
         #   BASE bxm2006zq for Ubuntu
         #   - 120105 Zoom.Quiet testing why chaos...
