@@ -8453,7 +8453,7 @@ etnr 顓
 etnr 颛
 etnv 歂
 etnz 遄
-eto ƙ踎
+eto 踎
 eto 跒
 eto 岢
 etqo 赶回
@@ -20744,6 +20744,7 @@ iidg 黑龍江省
 iidl 裏外
 iidl 里外
 iidn 讨论决定
+iidx 语义
 iidy 语法
 iiei 语录
 iifb 重點建設項目
@@ -24701,7 +24702,7 @@ jbqh 齄
 jbqk 齈
 jbqk 齉
 jbqk 鼻
-jbqƙl 齃
+jbql 齃
 jbql 齆
 jbqo 齁
 jbqo 追回
@@ -30931,6 +30932,7 @@ mafx 权势
 mafz 槰
 mag 柊
 magg 极少数
+magh 枚举
 magi 极小
 magm 整数
 magm 釐米
@@ -33107,7 +33109,7 @@ nahj 安危
 naho 客觀
 nahq 服务范围
 nahw 安逸
-nahy 客ƙ觀上
+nahy 客觀上
 naib 服务项目
 naif 宏观调控
 naig 客商
@@ -34092,6 +34094,7 @@ nhid 賓主
 nhid 宣言
 nhif 宏觀調控
 nhig 两旁
+nhii 同理
 nhik 同意
 nhik 两端
 nhil 两重性
@@ -40779,6 +40782,7 @@ rfdc 套汇
 rfdd 賻
 rfdd 煿
 rfdd 赙
+rffn 套接字
 rffo 奉告
 rfh 炜
 rfh 炐
@@ -41495,7 +41499,7 @@ rlo 貼
 rlo 炶
 rlo 贴
 rlrj 贴身
-rlro 大轰大嗡ƙ
+rlro 大轰大嗡
 rls 鵪
 rls 鹌
 rltf 貼補
@@ -48092,6 +48096,8 @@ vdty 領袖
 vdty 领袖
 vdua 創收
 vdud 贪心
+vdud 偏移
+vdud 偏心
 vdug 創利
 vduk 合法利益
 vdur 今秋
@@ -57382,6 +57388,7 @@ yjqq 壚
 yjrd 表态
 yjrn 違反規定
 yjro 墧
+yjrs 表达式
 yjrz 表达
 yjs 坁
 yjsa 羻
@@ -57790,7 +57797,7 @@ yofq 韞
 yofr 韥
 yoft 韠
 yoft 韡
-yofuƙ 韜
+yofu 韜
 yofu 韢
 yofx 韟
 yofz 違

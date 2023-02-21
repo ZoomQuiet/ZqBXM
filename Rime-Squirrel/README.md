@@ -119,6 +119,24 @@
 - [无法覆盖默认快捷键 · Issue \#718 · rime/squirrel](https://github.com/rime/squirrel/issues/718#issuecomment-1416899080)
 - 也就是说在 `<用戶文件夾>/build/*.schema.yaml` 编译成果目录中进行最终检验
 
+经过尝试后, 当前调整为:
+
+> bxm4zq2mac.schema.yaml 中追加绑定:
+
+```yaml
+key_binder:
+  import_preset: default
+  bindings:
+    # hotkey switch
+    #　ascii_punct　切换半／全角标点
+    #　full_shape　切换半／全角字符
+    #　ascii_mode　切换中／英输入
+    #- { when: always, accept: Escape,   toggle: full_shape}
+    #- { when: always, accept: Escape,   toggle: ascii_punct}
+    - { when: always, accept: Shift+space, toggle: full_shape }
+    #- { when: always, accept: Command+space, toggle: ascii_mode }
+    #- { when: always, accept: Control+period, toggle: ascii_punct }
+```
 
 
 ### 230206 

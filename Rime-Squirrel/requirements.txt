@@ -1,0 +1,14 @@
+#   pip install -r requirements.txt
+invoke
+icecream
+pytomlpp
+#tomli
+#tomli_w
+#urwid
+#fastapi
+#requests
+#uvicorn
+#pytomlpp
+#shortuuid
+#flet
+
