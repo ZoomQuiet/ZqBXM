@@ -141,6 +141,8 @@ def upd(c, code, word):
     else:
         print("INSERT BXM code")
     _gbxm[code].append(word)
+    #seek(c, code)
+    print(f"{code} -> {_gbxm[code]}")
 
     tlib.dump(_gbxm,open(TOML,'w'))
     return None
@@ -162,7 +164,7 @@ def dele(c, code, word):
 @task
 def gen(c, ):
     '''$ inv gen => re-GEN. ~/Library/Rime/ need new code-table
-    是也乎哉
+    是也乎哉　增删改查　
     '''
     _now = time.strftime("%y%m%d.%H%M%S", time.localtime(int(time.time())))
     exp = "# Rime dictionary\n"
