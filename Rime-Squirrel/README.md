@@ -90,7 +90,7 @@
 
 - 然后调用转换脚本 ::
 
-        $ python fix2Squirrel4BXM.py bxm.qim.tx３t
+        $ python fix2Squirrel4BXM.py bxm.qim.txt
         bxm.qim.txt
         #   BASE bxm2006zq for Ubuntu
         #   - 120105 Zoom.Quiet testing why chaos...
@@ -139,12 +139,53 @@ key_binder:
 ```
 
 
-### 230206 
 > 发现Gitter讨论中有另外的思路:
 
 更新后，中英文切换不行了。。 
 
 突然發現一個更簡單有效的方案，不過是更改 macOS 本身的設置，現在打字體驗能跟之前保持一致了⋯⋯ 因為 MacBook 沒有 Right Contorl 鍵，所以我把 `default.custom.yaml` 中的 switch_key 的 Control_R 更改為了『拼音上屏並切換/commit_code』： ``` switch_key: Shift_L: noop Shift_R: commit_code Control_L: noop Control_R: commit_code Caps_Lock: commit_text Eisu_toggle: clear ``` 然后将 Caps Lock 的 Modifier Keys 更改為了 control。之後就只會在 Squirrel 內部切換中/西文輸入模式了。代價是大寫鎖定功能被禁止了，不過我本來也從來不用這個功能，所以對我來說無所謂。而且因為 macOS 沒有 Right Contorl 鍵，所以不會影響到鍵盤上原本的 Contorl 鍵(Left Control)，只有 Caps Lock 會切換輸入模式。測了一下，暫時還沒發現什麼按鍵衝突之類的問題⋯⋯缺點是如果想在別的系統原生輸入法中進行切換，只能用 Caps Lock + Space / Control + Space 的組合了，比原本的 Caps Lock 麻煩了一點。
+
+### 230221
+> invoke 快速完成维护基本工具集
+
+以往维护 BXM 新字/词的流程是:
+
+- 进入对应目录
+- 手工维护约定文本
+- 使用 `fix2Squirrel4BXM.py` 将文件转化为 .yaml
+- 然后,人工将 .yaml 复制/覆盖到对应 `~/Library/Rime/` 替换指定文件
+- 最后, 使用输入法内置的重新部署工具完成新码表的加载
+
+
+![](https://ipic.zoomquiet.top/2023-02-22-zshot%202023-02-22%2015.44.36.jpg)
+
+整体上还是太复杂, 通过 Python 的脚本能力,现在嘦进行以下操作:
+
+- 进入对应目录(当前工具所在目录)
+- `$ inv upd [新键码] '[新字/词]'`
+    + 例如: `inv upd yvms '堆栈'`
+- `$ inv gen` ~ 自动输出 .yaml 到约定的目录中
+- 最后, 使用输入法内置的重新部署工具完成新码表的加载
+
+通过指令完成维护, 节省了人工判定键码排列顺序的判定和插入的人工过程...
+当前包含的所有指令如下:
+
+
+'''
+$ inv -l
+Available tasks:
+
+  dele     $ inv dele btlx "是也乎哉" => DELETE code-word and update .toml
+  find     $ inv find "是也乎" => base BXM exp. words seek code
+  gen      $ inv gen => re-GEN. ~/Library/Rime/ need new code-table
+  init     $ inv init => auto re-built all BXM code-database
+  revert   $ inv revert => base {ORIG} reload all BXM code into .toml
+  seek     $ inv seek btl => base BXM code seek Word/s
+  upd      $ inv upd btlx "是也乎哉" => update/insert code-word into .toml
+  ver      echo crt. verions
+'''
+
+
 
 
 
