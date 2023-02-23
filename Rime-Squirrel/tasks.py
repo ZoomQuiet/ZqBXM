@@ -9,6 +9,7 @@ __license__ = 'MIT@2023'
 import os
 import sys
 import time
+import itertools
 
 from pprint import pprint as pp
 #pp = pprint.PrettyPrinter(indent=4)
@@ -47,6 +48,28 @@ def cd(c, path2, echo=True):
 
 
 @task
+def init2(c):
+    print(f"init from\n\t{ORIG};\nAIM->\t{AIMP}")
+    print(f"{AIMP} exists?\n\t",os.path.exists(f"{AIMP}"))
+    _gbxm = {}
+
+    def generate_strings(length, prefix=''):
+        if length == 0:
+            return
+        for c in BXMC:
+            key = prefix + c
+            print(key)
+            _gbxm[key] = []
+            generate_strings(length-1, key)
+
+    #BXMC = 'abcdefghijklmnopqrstuvwxyz'
+    generate_strings(2)
+    #pp(_gbxm)
+    print(f"gen. all BXM code as {len(_gbxm.keys())}")
+    #tlib.dump(_gbxm,open(TOML,'w'))
+    return None
+
+@task
 def init(c):
     '''$ inv init => auto re-built all BXM code-database
     根据 BXM 的组码规律, 事先生成所有可能/合法的键码,以便以有序dict 的形式进行统一管理
@@ -54,6 +77,7 @@ def init(c):
     print(f"init from\n\t{ORIG};\nAIM->\t{AIMP}")
     print(f"{AIMP} exists?\n\t",os.path.exists(f"{AIMP}"))
     _gbxm = {}
+
     for c1 in BXMC:#[:4]:
         print(c1)
         _gbxm[c1] = []
@@ -70,8 +94,6 @@ def init(c):
     print(f"gen. all BXM code as {len(_gbxm.keys())}")
     tlib.dump(_gbxm,open(TOML,'w'))
     return None
-    for filename in os.listdir(f"{AIMP}"):
-        print(filename)
 
 
 @task
