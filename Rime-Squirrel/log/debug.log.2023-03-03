@@ -1,0 +1,12 @@
+  [2m2023-03-03 17:38:10.675[0m [32m INFO[0m [1;32mferris_actor::act::version[0m[32m: [32mcurrent_dir:
+	 /Users/zoomq/Works/0penproj.s/5git/ZqBXM/Rime-Squirrel[0m
+    [2;3mat[0m src/act/version.rs:11 [2;3mon[0m main ThreadId(1)
+
+  [2m2023-03-03 17:38:10.675[0m [32m INFO[0m [1;32mferris_actor::act::version[0m[32m: [32mPathBuf:src/act/version
+	"/Users/zoomq/Works/0penproj.s/5git/ZqBXM/Rime-Squirrel"[0m
+    [2;3mat[0m src/act/version.rs:14 [2;3mon[0m main ThreadId(1)
+
+  [2m2023-03-03 17:38:10.675[0m [32m INFO[0m [1;32mferris_actor::act::version[0m[32m: [32mPathBuf:Cargo.toml
+	"/Users/zoomq/Works/0penproj.s/5git/ZqBXM/Rime-Squirrel/Cargo.toml"[0m
+    [2;3mat[0m src/act/version.rs:20 [2;3mon[0m main ThreadId(1)
+

@@ -3,7 +3,7 @@
 
 ---
 name: bxm4zq2mac
-version: "230221.1742"
+version: "v.230303.222756"
 sort: original
 ...
 
@@ -2561,6 +2561,7 @@ sort: original
 是也乎	btl
 (￣▽￣)	btl
 目不转睛	btlb
+是也乎哉	btlx
 旱情	btly
 眄	btlz
 懸而未决	btmd
@@ -2895,9 +2896,9 @@ sort: original
 早春	bxrb
 显身手	bxrf
 显要	bxsa
+显式	bxsi
 鼎盛	bxsj
 助威	bxsj
-显式	bxsi
 睵	bxso
 是非曲直	bxsx
 量力而为	bxtd
@@ -2998,7 +2999,6 @@ sort: original
 見義勇為	byzd
 瞰	bzba
 基金组织	bzww
-區	c
 區	c
 婜	caa
 蝃	caaa
@@ -3660,6 +3660,8 @@ sort: original
 臨時工	cvbi
 臨時性	cvbl
 臨時	cvby
+蜘蛛	cvcj
+蜘蛛侠	cvcv
 螥	cvdo
 蛿	cvdo
 醫治	cvdu
@@ -4198,6 +4200,7 @@ sort: original
 漠然置之	ddqd
 多国	ddqi
 洋洋大观	ddra
+多态	ddrd
 汪洋大海	ddrd
 多则	ddrg
 溜之大吉	ddry
@@ -5124,13 +5127,13 @@ sort: original
 漉	djd
 泛濫	djdc
 泛滥	djdg
+淫荡	djdh
 激流	djdi
 源流	djdi
 激活	djdj
 渊源	djdj
 源源	djdj
 滔滔	djdj
-淫荡	djdh
 活潑	djdx
 活泼	djdx
 泛	djdz
@@ -6449,7 +6452,6 @@ sort: original
 多种多样	dudm
 渗漏	dudp
 治山	duei
-潘达	durz
 洠	duf
 潘建波	dufd
 淫秽物品	dufo
@@ -6486,6 +6488,7 @@ sort: original
 渗	durg
 冶炼	durl
 冶煉	durm
+潘达	durz
 澙	dusd
 多種形式	duss
 多种形式	duss
@@ -6514,11 +6517,11 @@ sort: original
 潃	dvan
 准备	dvaq
 漡	dvbg
+海量	dvbh
 冷暖	dvbj
 深入基層	dvbp
 深入基层	dvbp
 准时	dvbx
-海量	dvbh
 冷遇	dvcz
 海滩	dvda
 海浪	dvdd
@@ -7254,10 +7257,10 @@ sort: original
 路程	eauo
 越冬作物	eavf
 路途	eavh
+路径	eavz
 路綫	eaws
 路线	eaws
 路过	eaxd
-路径	eavz
 路边	eaxz
 路上	eayi
 路由	eayi
@@ -7364,8 +7367,10 @@ sort: original
 灵活经营	edwh
 跃然纸上	edwy
 翍	eea
+羽量	eebh
 翌日	eebi
 翨	eebv
+羽量级	eebw
 跋山涉水	eedi
 踌躇满志	eedy
 芔	eee
@@ -7581,6 +7586,7 @@ sort: original
 超负荷运转	ehhl
 走	ehi
 走弯路	ehie
+超市	ehie
 超産	ehig
 超产	ehig
 凱旋	ehih
@@ -7806,8 +7812,8 @@ sort: original
 山脉	eini
 山脈	einj
 踏實	einq
-山脚	einy
 山寨	eins
+山脚	einy
 峿	eio
 蹾	eioa
 彠	eioa
@@ -8116,10 +8122,10 @@ sort: original
 觊	elw
 起见	elwi
 岂非	elxi
+岂克休	elxv
 起步	elyg
 岂止	elyi
 起義	elys
-岂克休	elxv
 帊	elz
 跁	elz
 屺	elz
@@ -8255,8 +8261,8 @@ sort: original
 印象	ephq
 幄	ephy
 跟班	epig
-印章	epik
 印证	epii
+印章	epik
 印度	epjh
 峎	epk
 跟	epk
@@ -8390,8 +8396,6 @@ sort: original
 峣	eshw
 跷	eshw
 跩	esi
-跩	esi
-超市	ehie
 峩	esj
 嵨	esj
 嶋	esj
@@ -8457,7 +8461,7 @@ sort: original
 颛	etnr
 歂	etnv
 遄	etnz
-ƙ踎	eto
+踎	eto
 跒	eto
 岢	eto
 赶回	etqo
@@ -8898,7 +8902,6 @@ sort: original
 叏	faz
 叓	faz
 披	faz
-妻子	yazz
 摊子	fazz
 輙	fba
 掫	fba
@@ -9312,7 +9315,6 @@ sort: original
 攮	ffnk
 紥紥實實	ffnn
 扎扎实实	ffnn
-控股	fnnw
 捁	ffo
 牿	ffo
 拍手叫好	ffoa
@@ -9775,6 +9777,7 @@ sort: original
 事例	fhvh
 招集	fhvi
 招待所	fhvj
+换行符	fhvk
 换货	fhvl
 招徕	fhvm
 搽	fhvm
@@ -10036,6 +10039,7 @@ sort: original
 抗病	fijh
 提高生産率	fiji
 提高生产率	fiji
+接受者	fijj
 中原	fijj
 挔	fijk
 拉后腿	fijn
@@ -10048,6 +10052,7 @@ sort: original
 接近	fijt
 提高生活水平	fijt
 中顾委	fiju
+接受人	fijv
 中老年	fijv
 排水系统	fijw
 挤压	fijy
@@ -10181,8 +10186,10 @@ sort: original
 中心	fiud
 接种	fiuf
 抗税	fiug
+接收者	fiuj
 中和	fiuo
 中科院	fiup
+接收人	fiuv
 輆	fiuv
 掖	fiva
 中年	fivf
@@ -10793,8 +10800,10 @@ sort: original
 指导意义	flid
 拟议	flid
 指正	flih
+指环王	flii
 指望	flil
 批评家	flin
+指环	flit
 擬訂	flit
 拟订	flit
 批評	flit
@@ -11098,6 +11107,7 @@ sort: original
 拥军	fnnl
 探问	fnno
 搬家	fnnq
+控股	fnnw
 摈	fnog
 探听	fnoj
 囊	fnok
@@ -11106,6 +11116,7 @@ sort: original
 蠹	fnpc
 探矿	fnpj
 橐	fnpm
+擦除	fnpv
 探險	fnpv
 探险	fnpv
 事实确凿	fnpx
@@ -11397,6 +11408,7 @@ sort: original
 据预测	fpzd
 报销	fpzg
 挶	fpzo
+报错	fpzs
 轏	fpzz
 中國婦女	fqaa
 中国妇女	fqaa
@@ -11801,6 +11813,7 @@ sort: original
 持不同政见者	ftnj
 持否定态度	ftnj
 打字机	ftnm
+事不宜迟	ftnp
 輭	ftnr
 打字	ftnz
 軻	fto
@@ -12702,10 +12715,10 @@ sort: original
 特邀	fyjb
 特製	fyjf
 特制	fyjf
-特么	fyju
 扯后腿	fyjn
 特向	fyjn
 挂失	fyjr
+特么	fyju
 中美关系	fykj
 特长	fykj
 特等奖	fykk
@@ -13208,11 +13221,11 @@ sort: original
 半边	gfxz
 半數	gfya
 数据通信	gfzv
+哥哥	gg
 三八妇女节	ggah
 八小时工作制	ggbj
 头头是道	ggbk
 光临惠顾	ggcj
-哥哥	gg
 尛	ggg
 州	ggg
 祘	gggg
@@ -13470,8 +13483,8 @@ sort: original
 兴奋	ghrq
 光榮	ghrr
 鳻	ghs
-分开	ghsh
 二进制	ghsf
+分开	ghsh
 二进制	ghsj
 兴盛	ghsj
 分成	ghsj
@@ -15772,6 +15785,7 @@ sort: original
 菭	hduo
 殆	hduo
 藩	hduq
+残念	hdvd
 歹徒	hdve
 蕍	hdvg
 殤	hdvg
@@ -15791,7 +15805,6 @@ sort: original
 蒞	hdvk
 餮	hdvk
 蒤	hdvm
-残念	hdvd
 殮	hdvv
 死伤	hdvv
 死後	hdvw
@@ -17374,6 +17387,7 @@ sort: original
 劳顿	hnlt
 荣	hnm
 带来	hnmg
+解构	hnmh
 劳模	hnmh
 一般来说	hnmi
 解析	hnmj
@@ -19425,8 +19439,8 @@ sort: original
 工贸结合	icwv
 讴	icx
 瑼	icxd
-主妇	idae
 主妇流	idad
+主妇	idae
 主观性	idal
 主观	idaw
 黚	idb
@@ -20435,7 +20449,6 @@ sort: original
 五彩	ihjm
 方向	ihjn
 方向盘	ihjn
-方向	ihjn
 谨向	ihjn
 功到自然成	ihjs
 正處于	ihjt
@@ -22186,6 +22199,7 @@ sort: original
 烹調	ioin
 烹调	ioin
 熟识	ioio
+啍啍	ioio
 高水平	ioit
 敲诈	ioiv
 商品交易会	ioiv
@@ -23833,6 +23847,7 @@ sort: original
 譋	ixn
 珛	ixn
 詴	ixn
+文案	ixna
 亹	ixnb
 就业问题	ixnb
 离间	ixnb
@@ -23843,7 +23858,6 @@ sort: original
 動用	ixnf
 讲求实效	ixni
 斓	ixnm
-文案	ixna
 證實	ixnq
 离家	ixnq
 水灾	ixnr
@@ -24504,9 +24518,9 @@ sort: original
 自持	jbfy
 麒	jbg
 泉州	jbgg
+自省	jbgj
 瘎	jbgl
 自觉性	jbgl
-自省	jbgj
 自学	jbgn
 自觉	jbgn
 自尊	jbgs
@@ -24706,7 +24720,7 @@ sort: original
 齈	jbqk
 齉	jbqk
 鼻	jbqk
-齃	jbqƙl
+齃	jbql
 齆	jbql
 齁	jbqo
 追回	jbqo
@@ -25091,6 +25105,7 @@ sort: original
 看着	jfyb
 看上	jfyi
 制止	jfyi
+制表符	jfyk
 老中青三结合	jfyv
 看上去	jfyy
 逓	jfz
@@ -25473,11 +25488,11 @@ sort: original
 教育質量	jijb
 教育质量	jijb
 乱说乱动	jijg
+自说自话	jiji
 教育制度	jijj
 獻計獻策	jijk
 反政府武装	jijk
 庡	jijk
-自说自话	jiji
 生产厂家	jijn
 自高自大	jijr
 生产自救	jijx
@@ -25783,6 +25798,7 @@ sort: original
 厄运	jlgu
 老师傅	jlgv
 老远	jlgw
+老爹	jlgx
 乇	jlh
 厍	jlh
 庉	jlh
@@ -29095,6 +29111,7 @@ sort: original
 篕	kyuq
 饁	kyuq
 籌委會	kyuv
+等价物	kyvf
 壮年	kyvf
 籌集	kyvi
 裝修	kyvi
@@ -29553,6 +29570,7 @@ sort: original
 切斷	lhlw
 异己	lhlz
 惵	lhm
+异构	lhmh
 异样	lhmy
 车速	lhmz
 怲	lhn
@@ -29866,6 +29884,7 @@ sort: original
 忻州	ljgg
 毛料	ljgm
 轷	ljgx
+老爹	ljgx
 毛	ljh
 怕死	ljhd
 性急	ljhe
@@ -30179,15 +30198,15 @@ sort: original
 战事	lofh
 占据	lofp
 战报	lofp
-占先	lofw
 点击	lofu
+占先	lofw
 怾	log
 轵	log
 点头	logr
 战斗	logx
 战斗力	logx
-悮	lohr
 点解	lohn
+悮	lohr
 战争	loht
 悜	loi
 占	loi
@@ -30810,9 +30829,11 @@ sort: original
 已婚	lzaj
 也好	lzaz
 轻取	lzba
+轻量	lzbh
 轻易	lzbh
 连日	lzbi
 也是	lzbt
+轻量级	lzbw
 迆	lzd
 迍	lzd
 连	lzd
@@ -30942,8 +30963,8 @@ sort: original
 釐米	magm
 整党	magn
 树苗	mahq
-极致	mahu
 整天	mahr
+极致	mahu
 整	mai
 整理	maii
 极端	maik
@@ -31180,8 +31201,8 @@ sort: original
 想办法	mbxd
 查閱	mbxg
 查办	mbxg
-查杀	mbxm
 相對	mbxh
+查杀	mbxm
 相關	mbxw
 榯	mbyd
 棋坛	mbyg
@@ -31213,6 +31234,7 @@ sort: original
 橞	mcu
 櫃台	mcuo
 柜台	mcuo
+耦合	mcvh
 樞紐	mcwz
 枢纽	mcwz
 榧	mcx
@@ -31569,6 +31591,7 @@ sort: original
 相互竞争	mhih
 相互理解	mhih
 本该	mhii
+本章	mhik
 東部	mhik
 本部	mhik
 本意	mhik
@@ -31606,7 +31629,6 @@ sort: original
 未来	mhmg
 本来	mhmg
 木本	mhmh
-析构	mjmh
 本校	mhmi
 模板	mhmj
 木板	mhmj
@@ -31980,6 +32002,7 @@ sort: original
 棌	mjm
 株	mjm
 橱柜	mjmc
+析构	mjmh
 柏林	mjmm
 耱	mjmp
 板材	mjmx
@@ -32597,7 +32620,6 @@ sort: original
 棿	muw
 整体观念	mvav
 椱	mvba
-检出	mveu
 來源	mvdj
 梒	mvdo
 槍	mvdo
@@ -32608,6 +32630,7 @@ sort: original
 棯	mvdu
 枔	mvdz
 柃	mvdz
+检出	mveu
 枪击	mvfu
 梅州	mvgg
 检举	mvgh
@@ -33113,7 +33136,7 @@ sort: original
 客觀	naho
 服务范围	nahq
 安逸	nahw
-客ƙ觀上	nahy
+客觀上	nahy
 服务项目	naib
 宏观调控	naif
 客商	naig
@@ -33586,6 +33609,7 @@ sort: original
 害人虫	nfvc
 军事优势	nfvf
 军事行动	nfvg
+用例	nfvh
 運行	nfvh
 用途	nfvh
 運往	nfvi
@@ -34277,6 +34301,7 @@ sort: original
 内务部	niai
 宾主双方	niai
 内务	niax
+内联	nibk
 宔	nid
 臐	nid
 訚	nid
@@ -34378,8 +34403,8 @@ sort: original
 臆想	nimb
 航标	nimg
 航模	nimh
-内耗	niml
 内核	nimi
+内耗	niml
 内阁	nina
 臃肿	ninf
 航運	ninf
@@ -34863,7 +34888,6 @@ sort: original
 空间科学	nnug
 安安稳稳	nnuu
 朒	nnv
-内什么	nvvj
 膘肥体壮	nnvk
 實用價值	nnvv
 实用价值	nnvv
@@ -35613,6 +35637,7 @@ sort: original
 完全必要	nvus
 安全保证	nvvi
 舱位	nvvi
+内什么	nvvj
 宱	nvvk
 安全行车	nvvl
 肉体	nvvm
@@ -35830,7 +35855,6 @@ sort: original
 周期	nybg
 周期性	nybl
 周蟒	nych
-周边	nyxz
 羘	nyd
 脚注	nydi
 周游	nydi
@@ -35856,10 +35880,10 @@ sort: original
 寶貴意見	nyib
 周旋	nyih
 完善市场机制	nyij
+周琦	nyir
 雕刻	nyiu
 宝贵意见	nyiw
 周详	nyiy
-周琦	nyir
 脿	nyjk
 實地考察	nyjn
 实地考察	nyjn
@@ -35879,8 +35903,8 @@ sort: original
 腈	nyn
 膨脹	nynf
 寂寞	nynh
-膨胀	nynk
 周宣辰	nynj
+膨胀	nynk
 週密	nynu
 周密	nynu
 周	nyo
@@ -35915,6 +35939,7 @@ sort: original
 周知	nyvr
 膆	nywg
 週總理	nywi
+周边	nyxz
 胿	nyy
 闺	nyy
 同步增長	nyyf
@@ -35932,14 +35957,16 @@ sort: original
 字节	nzhp
 胫	nzi
 字迹	nzix
-字符	nzkv
 字符串	nzkf
+字符	nzkv
 字样	nzmy
 艋	nzq
 字母	nzql
 突飞猛进	nzqs
 突飛猛進	nzqv
 字典	nzsg
+字面量	nztb
+字面	nztq
 字体	nzvm
 穿针引线	nzww
 字	nzz
@@ -36309,7 +36336,6 @@ sort: original
 呈現	oiib
 口语	oiii
 口音	oiik
-啍啍	ioio
 口诀	oiir
 口试	oiis
 唾弃	oiiu
@@ -36929,10 +36955,10 @@ sort: original
 嗶	oti
 吁请	otiy
 呵	oto
-呵呵	otot
 叮咛	oton
 叮囑	otop
 叮嘱	otop
+呵呵	otot
 喕	otq
 咞	ott
 听而不闻	ottn
@@ -37241,8 +37267,8 @@ sort: original
 哪里	ozii
 唫	ozj
 吼	ozl
-吼	ozll
 哪怕	ozlj
+吼	ozll
 嗵	oznz
 哪能	ozun
 哪兒	ozuw
@@ -38990,8 +39016,8 @@ sort: original
 图谋	qaib
 困难重重	qaii
 略语	qaii
-略高于	qait
 图谱	qaik
+略高于	qait
 畋	qaj
 男女老少	qajg
 图片	qakj
@@ -41503,7 +41529,7 @@ sort: original
 炶	rlo
 贴	rlo
 贴身	rlrj
-大轰大嗡ƙ	rlro
+大轰大嗡	rlro
 鵪	rls
 鹌	rls
 貼補	rltf
@@ -41613,8 +41639,8 @@ sort: original
 奝	rnyo
 赒	rnyo
 賙	rnyo
-摇滚	rock
 大器晚成	robs
+摇滚	rock
 贼喊捉贼	rofr
 炽热	rofx
 炽	rog
@@ -42890,17 +42916,17 @@ sort: original
 开支	shxa
 开发区	shxc
 专业户	shxd
-开发者	shxj
-开发者关系管理	shxi
 开办	shxg
 专业	shxh
 开业	shxh
 开凿	shxh
 西北角	shxh
 西南角	shxh
+开发者关系管理	shxi
 开发部	shxi
 西北	shxi
 西北部	shxi
+开发者	shxj
 酽	shxj
 开发性	shxl
 西南	shxn
@@ -43037,6 +43063,7 @@ sort: original
 鶳	sjbt
 騡	sjbx
 鸟瞰	sjbz
+盛惠	sjcu
 騼	sjd
 戍	sjd
 井底之蛙	sjdc
@@ -43864,8 +43891,8 @@ sort: original
 进京	szio
 进水	szix
 黄金市场	sziy
-进度	szjh
 进制	szjf
+进度	szjh
 马后炮	szjr
 马虎	szjw
 进度表	szjy
@@ -46474,6 +46501,7 @@ sort: original
 科技奬	ugfk
 科技奖	ugfk
 科技馆	ugfk
+鼠鬚管	ugfk
 科学技术	ugfm
 科技界	ugfq
 科学技术是第一生产力	ugfx
@@ -46483,6 +46511,7 @@ sort: original
 利弊	ugge
 鼢	uggh
 稍小	uggi
+鼠须管	uggk
 科学性	uggl
 科学分析	uggm
 科学	uggn
@@ -46552,8 +46581,6 @@ sort: original
 鱗	ugmf
 鳞	ugmf
 鼠标	ugmg
-鼠鬚管	ugfk
-鼠须管	uggk
 鮹	ugn
 稍等	ugn
 翻案	ugna
@@ -47026,11 +47053,11 @@ sort: original
 能為	undk
 能为	undx
 鯶	unf
+能技之	unfd
 和盘托出	unfe
 能手	unfj
-稳定物价	unfv
-能技之	unfd
 能技之夸赞术	unfm
+稳定物价	unfv
 能技	unfx
 鯮	ungg
 能动性	ungl
@@ -47103,9 +47130,9 @@ sort: original
 程控	uofn
 刣	uog
 积	uog
-和尚	uogn
 台州	uogg
 积分	uogh
+和尚	uogn
 稏	uoh
 和藹	uohi
 和蔼	uohi
@@ -47124,12 +47151,12 @@ sort: original
 积水	uoix
 程序媛	uoja
 程度	uojh
+程序员	uojo
+程序猿	uojq
 积压	uojy
 程序	uojz
 和氣	uokg
 和气	uokj
-程序员	uojo
-程序猿	uojq
 乨	uol
 怠慢	uolb
 枲	uom
@@ -47256,7 +47283,6 @@ sort: original
 秋色	urhl
 秧苗	urhq
 秋天	urhr
-秋天	urhr
 鮬	urhs
 愁苦	urhx
 贠	uri
@@ -47282,8 +47308,8 @@ sort: original
 参军	urnl
 鱊	urno
 参赛	urns
-参展	urps
 参股	urnw
+参展	urps
 畚	urq
 貵	urr
 醔	urs
@@ -47294,7 +47320,6 @@ sort: original
 鱡	ursx
 愁	uru
 秋收	urua
-秋季	uruz
 秋季	uruz
 收購價格	urvm
 收购价格	urvm
@@ -48206,6 +48231,7 @@ sort: original
 鰴	veha
 微	veha
 徵	veha
+徽	veha
 微薄	vehd
 徒劳	vehn
 微觀	veho
@@ -48227,7 +48253,6 @@ sort: original
 微生物	vejf
 促生产	veji
 微店	vejl
-徽	veha
 侬	vek
 侵蝕	vekc
 侵蚀	vekc
@@ -50539,6 +50564,7 @@ sort: original
 保管	vokn
 保管员	voko
 俋	vol
+知情咒	volo
 俁	volr
 保	vom
 短兵相接	vomf
@@ -50926,7 +50952,6 @@ sort: original
 使馆	vrkn
 俺	vrl
 短暂	vrlj
-知情咒	volo
 知情人	vrlv
 知情	vrly
 知己	vrlz
@@ -51508,8 +51533,6 @@ sort: original
 作	vvk
 倒行逆施	vvki
 合作关系	vvkj
-作什么	vvvj
-(๑̀д́๑)	vvvj
 從前	vvkn
 从前	vvkn
 从简	vvkn
@@ -51620,6 +51643,8 @@ sort: original
 復合	vvvh
 復會	vvvh
 全体会议	vvvi
+作什么	vvvj
+(๑̀д́๑)	vvvj
 伤人	vvvj
 众人	vvvj
 仡佬	vvvj
@@ -51745,9 +51770,9 @@ sort: original
 优雅	vwri
 伤风败俗	vwrv
 佩	vwt
-佩哥哥	vwtt
 优于	vwth
 後面	vwtq
+佩哥哥	vwtt
 优秀	vwuh
 优秀奖	vwuk
 後進	vwvi
@@ -52100,16 +52125,16 @@ sort: original
 人贵有自知之明	vyxb
 侍	vyxd
 待	vyxd
+待办	vyxg
 企業	vyxh
 企业	vyxh
 待業	vyxh
 待业	vyxh
-待办	vyxg
 企業家	vyxn
 企业家	vyxn
-卸载	vyxs
 企業界	vyxq
 企业界	vyxq
+卸载	vyxs
 企業化	vyxv
 企业化	vyxv
 佳肴	vyxx
@@ -53439,6 +53464,7 @@ sort: original
 縇	wnhh
 絧	wnho
 繽	wnhr
+综艺	wnhz
 縎	wni
 納	wni
 纳	wni
@@ -53723,8 +53749,8 @@ sort: original
 綫索	wsxn
 线索	wsxn
 緸	wsy
-线上	wsyi
 彉	wsyg
+线上	wsyi
 紼	wsz
 绋	wsz
 凮	wtb
@@ -54990,8 +55016,8 @@ sort: original
 戣	xhrs
 歕	xhrv
 凿开	xhsh
-對于	xhth
 十进制	xhsj
+對于	xhth
 對面	xhtq
 非死不可	xhtt
 十恶不赦	xhty
@@ -55154,6 +55180,7 @@ sort: original
 在新形势下	xist
 在新形勢下	xist
 有计划按比例	xisv
+左下角	xith
 在下	xith
 在于	xith
 直言不讳	xiti
@@ -55225,6 +55252,7 @@ sort: original
 北方地区	xiyc
 有計劃商品經濟	xiyd
 存款	xiyg
+左上角	xiyh
 開放城市	xiyi
 在此	xiyl
 存款额	xiyn
@@ -55296,7 +55324,6 @@ sort: original
 九	xjz
 丸	xjz
 夗	xjz
-丸子	xzzi
 丸子	xjzz
 業餘時間	xkbx
 闕	xkev
@@ -55739,6 +55766,7 @@ sort: original
 驾驶员	xoso
 駕駛	xosr
 驾驶	xosr
+右下角	xoth
 哿	xoto
 右面	xotq
 賀電	xotx
@@ -55777,6 +55805,7 @@ sort: original
 右边	xoxz
 加力	xoxz
 加熱	xoyg
+右上角	xoyh
 故土	xoyh
 加上	xoyi
 贺喜	xoyo
@@ -56575,6 +56604,7 @@ sort: original
 卖力	xzxz
 边境	xzyi
 边遠	xzyo
+丸子	xzzi
 上	y
 去	y
 着	y
@@ -57029,6 +57059,7 @@ sort: original
 士气	yhkj
 均等	yhky
 垉	yhl
+增删改查	yhlm
 差一点儿	yhlw
 均已	yhlz
 垜	yhm
@@ -57723,8 +57754,8 @@ sort: original
 养猪业	ynqx
 青春	ynrb
 青春期	ynrb
-养大	ynrh
 静态	ynrd
+养大	ynrh
 鶄	yns
 青岛	ynse
 養成	ynsj
@@ -57801,7 +57832,7 @@ sort: original
 韥	yofr
 韠	yoft
 韡	yoft
-韜	yofuƙ
+韜	yofu
 韢	yofu
 韟	yofx
 違	yofz
@@ -57955,8 +57986,8 @@ sort: original
 声讨	ypix
 声息	ypjb
 垠	ypk
-邮箱	ypkm
 塀	ypkh
+邮箱	ypkm
 坭	ypl
 邮电	ypli
 邮电部	ypli
@@ -58157,9 +58188,9 @@ sort: original
 遗	yrz
 块	yrz
 墰	ysbx
-域名	ysdo
 城區	ysco
 城区	yscx
+域名	ysdo
 城建局	ysfp
 城建	ysfz
 垬	ysg
@@ -58236,8 +58267,8 @@ sort: original
 忐忑不安	yttn
 由下而上	ytty
 由于种种原因	ytuq
-志平仁波切	ytvl
 坏人	ytvj
+志平仁波切	ytvl
 壻	ytvn
 上下级之间	ytwn
 上下结合	ytwv
@@ -58345,6 +58376,7 @@ sort: original
 齿轮	yvlv
 督促檢查	yvmm
 督促检查	yvmm
+堆栈	yvms
 青年突击手	yvnf
 青年突击队	yvnp
 堢	yvom

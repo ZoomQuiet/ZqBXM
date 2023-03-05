@@ -1,4 +1,4 @@
-## 表形码 在 鼠须管|Squirrel
+# 表形码 在 鼠须管/Squirrel
 
 [表形码](http://zh.wikipedia.org/wiki/%E8%A1%A8%E5%BD%A2%E7%A0%81)
 一款异常优秀的输入法！
@@ -12,7 +12,7 @@
 - 终于,有 ifanr 好友推荐: [鼠须管，“神级”输入法](http://www.ifanr.com/156409)
     - 终于忍受 QIM 不能,用一晩迁移了过来...
 
-### 参考
+## 参考
 
 佛振先生的大作: [rimeime - 中州韻輸入法引擎 | Rime Input Method Engine - Google Project Hosting](http://code.google.com/p/rimeime/)
 
@@ -103,6 +103,45 @@
 
 
 - 最后将增补成功的 `bxm4zq2mac.dict.txt` 复制到 `~/Library/Rime/` 重新部属生成新的相关数据就好!
+
+
+### 230305
+> 作为 Rust 练习, 将原先 Python 版本的码表管理工具, 转化为编译执行工具版本
+
+- 仓库: [zhrust/BXMr at v0.3.42](https://github.com/zhrust/BXMr/tree/v0.3.42)
+- 发布: [bxmr - crates.io: Rust Package Registry](https://crates.io/crates/bxmr)
+- 故事: [BXMr - be Rustaceans](https://rs.101.so/dev/cli_bxmr.html#trace)
+
+毕竟 rIME 本身并没有提供自定义词语的快速管理功能, 那就得自己来了...
+当前的使用流程:
+
+```
+BXMr Usage:
+0: must setup .env for all Commands;
+    $ bxmr cfg yaml path/2/u/local/bxm4zq2mac.dict.yaml
+        ~ point u rIME-Squirrel usage .yaml
+    $ bxmr cfg toml path/2/u/local/bxmr_loc_temp.toml
+        ~ point u local temporary .toml, BXMr need this for cache data
+
+> daily usage flow
+1: seek the code is exist?
+    $ bxmr seek aaa
+
+2: if not exist, u can append it:
+    $ bxmr upd aaa 叒
+
+3: or find the word's code is exist? ~> find 字词
+    or upd more code into temporary .toml
+
+4: if enough now, must export to .yaml:
+    $ bxmr gen
+
+at last, always need usage rIME's re-deploy menu, 
+    for load new code-table .yaml,
+    so we can enjoy new BXM now ;-)
+
+```
+
 
 
 ### 230202

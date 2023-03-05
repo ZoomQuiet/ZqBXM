@@ -27,7 +27,6 @@ AIMP = os.path.expanduser("~/Library/Rime/")
 TEMY = f"{ROOT}/bxm4mac.dict.yaml"
 AIMY = f"{AIMP}/bxm4zq2mac.dict.yaml"
 
-BXMC = "abcdefghijklmnopqrstuvwxyz"
 TOML = f"{ROOT}/bxm.qim.toml"
 
 @task
@@ -46,6 +45,7 @@ def cd(c, path2, echo=True):
         c.run('pwd')
         c.run('echo \n')
 
+BXMC = "abcdefghijklmnopqrstuvwxyz"
 
 @task
 def init2(c):
@@ -162,7 +162,8 @@ def upd(c, code, word):
             print("INSERT new word in SAME code")
     else:
         print("INSERT BXM code")
-    _gbxm[code].append(word)
+    #_gbxm[code].append(word)
+    _gbxm[code].insert(0,word)
     #seek(c, code)
     print(f"{code} -> {_gbxm[code]}")
 
